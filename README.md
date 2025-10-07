@@ -14,24 +14,23 @@ Robô RPA (Robotic Process Automation) desenvolvido em Python para automatizar o
 ✅ Sistema completo de logs
 ✅ Tratamento de erros e validações
 
-🗂️ Estrutura do Projeto
-projeto/
-│
-├── main.py                  # Orquestrador principal - processa todas as linhas
-├── login.py                 # Módulo de login no sistema
-├── cesar_modulo.py          # Acesso ao configurador e pesquisa de tipos
-├── insercao_dados.py        # Inserção de dados e extração de PA
-├── config.py                # Configurações centralizadas
-│
-├── img/                     # Imagens para reconhecimento visual
+## 🗂️ Estrutura do Projeto
+.
+├── main.py                           # Orquestrador principal
+├── login.py                          # Módulo de login
+├── cesar_modulo.py                   # Configurador e pesquisa
+├── insercao_dados.py                 # Inserção e extração PA
+├── config.py                         # Configurações centralizadas
+├── img/                              # Imagens para OCR
 │   ├── menu systeam.PNG
 │   ├── modulo item por descricao.PNG
 │   ├── pesquisar tipos 615.PNG
 │   ├── informacao.PNG
 │   ├── CONFIRMAR.PNG
 │   └── SIM.PNG
-│
-└── logs/                    # Logs de execução (criado automaticamente)
+├── logs/                             # Logs (criado automaticamente)
+└── README.md
+
 ⚙️ Configuração
 Arquivo config.py
 Todas as configurações principais estão centralizadas neste arquivo:
