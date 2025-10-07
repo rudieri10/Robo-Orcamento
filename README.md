@@ -52,6 +52,7 @@ INTERVALO_ENTRE_ACOES = 0.7     # Pausa entre ações
 # Outras Configurações
 EMPRESA_PADRAO = 200            # Código da empresa para login
 TABS_INICIAIS = 7               # Tabs antes de começar a inserir
+
 🔧 Requisitos
 Bibliotecas Python
 bashpip install pyautogui
@@ -119,6 +120,7 @@ mermaidgraph TD
     O --> P{Mais linhas?}
     P -->|Sim| B
     P -->|Não| Q[Fim]
+    
 🔍 Sistema de Logs
 Os logs são salvos automaticamente na pasta logs/ com timestamp:
 logs/
@@ -134,8 +136,8 @@ ERROR: Erros que impedem o processamento
 🎨 Imagens Necessárias
 O robô usa reconhecimento visual. Certifique-se de que estas imagens estão na pasta img/:
 ImagemPropósitomenu systeam.PNGIdentificar menu principalmodulo item por descricao.PNGAcessar módulopesquisar tipos 615.PNGBotão de pesquisainformacao.PNGJanela com código PACONFIRMAR.PNGJanela de confirmaçãoSIM.PNGBotão de confirmação
-🛡️ Segurança e Failsafe
 
+🛡️ Segurança e Failsafe
 FAILSAFE ativado: Mover mouse para canto superior esquerdo interrompe execução
 Timeout configurado: Evita loops infinitos
 Validações: Verifica arquivos, abas e dados antes de processar
@@ -165,38 +167,7 @@ pythonTEMPO_ENTRE_CARACTERES = 0.03  # Diminuir = mais rápido
 INTERVALO_ENTRE_ACOES = 0.7    # Pausa entre ações
 Alterar Empresa
 pythonEMPRESA_PADRAO = 200  # Código da empresa
-⚠️ Observações Importantes
 
-Não mover o mouse durante a execução
-Não usar o teclado enquanto o robô está executando
-Manter a resolução de tela constante (afeta reconhecimento de imagens)
-Garantir acesso à rede para ler/escrever planilhas
-Tesseract OCR deve estar instalado e no PATH
-
-🐛 Resolução de Problemas
-Robô não encontra imagens
-
-Verificar se imagens estão na pasta img/
-Ajustar confidence no código (padrão: 0.7-0.8)
-Tirar novas screenshots se resolução mudou
-
-OCR não extrai PA corretamente
-
-Verificar instalação do Tesseract
-Ajustar threshold de binarização em extrair_pa_da_janela_informacao()
-Verificar imagem de debug gerada: DEBUG_imagem_para_ocr_*.png
-
-Planilha não é encontrada
-
-Verificar acesso à rede: \\192.168.1.250\Programas\robo custos\lancar\
-Confirmar permissões de leitura/escrita
-Verificar formato do arquivo (.xlsx, .xls, .csv)
-
-Login falha
-
-Verificar credenciais em login.py
-Confirmar caminho do executável
-Verificar número da empresa
 
 📞 Suporte
 Para dúvidas ou problemas:
