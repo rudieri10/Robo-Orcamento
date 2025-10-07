@@ -1,0 +1,107 @@
+2025-08-08 15:36:14,561 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-08-08 15:36:14,561 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar
+2025-08-08 15:36:14,564 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 15:36:14,564 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 15:36:14,564 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 15:36:14,565 - INFO - Total de arquivos encontrados: 1
+2025-08-08 15:36:14,566 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:14,567 - INFO -   Data modificação: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:14,567 - INFO -   Tamanho: 22206 bytes
+2025-08-08 15:36:14,567 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:14,567 - INFO -   Caminho: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:14,567 - INFO -   Data: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:14,567 - INFO - Procurando próxima linha sem PA na coluna B (aba (608))...
+2025-08-08 15:36:14,945 - INFO - Procurando aba com (608) no nome...
+2025-08-08 15:36:14,982 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 15:36:14,983 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 15:36:14,983 - INFO - Verificando aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:14,983 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:14,984 - INFO - Usando aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:14,995 - INFO - Próxima linha para processar (sem PA na coluna B): 5
+2025-08-08 15:36:15,156 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 5 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-08-08 15:36:15,157 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-08-08 15:36:15,157 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÇÃO ===
+2025-08-08 15:36:15,157 - INFO - Iniciando processo completo...
+2025-08-08 15:36:15,157 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-08-08 15:36:15,157 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar
+2025-08-08 15:36:15,158 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 15:36:15,158 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 15:36:15,158 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 15:36:15,159 - INFO - Total de arquivos encontrados: 1
+2025-08-08 15:36:15,160 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,160 - INFO -   Data modificação: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:15,160 - INFO -   Tamanho: 22206 bytes
+2025-08-08 15:36:15,160 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,160 - INFO -   Caminho: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,160 - INFO -   Data: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:15,161 - INFO - Procurando próxima linha sem PA na coluna B (aba (608))...
+2025-08-08 15:36:15,518 - INFO - Procurando aba com (608) no nome...
+2025-08-08 15:36:15,539 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 15:36:15,540 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 15:36:15,541 - INFO - Verificando aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:15,541 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:15,541 - INFO - Usando aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:15,553 - INFO - Próxima linha para processar (sem PA na coluna B): 5
+2025-08-08 15:36:15,707 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar
+2025-08-08 15:36:15,707 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 15:36:15,708 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 15:36:15,708 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 15:36:15,708 - INFO - Total de arquivos encontrados: 1
+2025-08-08 15:36:15,709 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,709 - INFO -   Data modificação: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:15,709 - INFO -   Tamanho: 22206 bytes
+2025-08-08 15:36:15,709 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,710 - INFO -   Caminho: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:15,710 - INFO -   Data: Fri Aug  8 15:27:44 2025
+2025-08-08 15:36:15,710 - INFO - Abrindo planilha via COM: \\192.168.1.250\Dados-G\Custos\Gestão de Preços\RPP\RPA\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:16,352 - INFO - Planilha aberta com sucesso!
+2025-08-08 15:36:16,352 - INFO - Procurando aba com (608) no nome...
+2025-08-08 15:36:16,376 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 15:36:16,377 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 15:36:16,377 - INFO - Verificando aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:16,378 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:16,378 - INFO - Usando aba: ESTOQUE - PA ALIZAR JG (608), linha: 5
+2025-08-08 15:36:16,378 - INFO - Número extraído do nome da aba 'ESTOQUE - PA ALIZAR JG (608)': 608
+2025-08-08 15:36:16,408 - INFO - Dados lidos da aba configurada - linha 5:
+2025-08-08 15:36:16,409 - INFO -   Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 15:36:16,409 - INFO -   Nome da aba: ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:16,409 - INFO -   Número extraído: 608 (✅ CORRETO)
+2025-08-08 15:36:16,409 - INFO -   Coluna A (controle): ESTOQUE - PA ALIZAR JG (608)
+2025-08-08 15:36:16,409 - INFO -   Coluna B (PA existente): None
+2025-08-08 15:36:16,409 - INFO -   📋 COLUNAS CONFIGURADAS (C até W):
+2025-08-08 15:36:16,409 - INFO -     Coluna C: I159
+2025-08-08 15:36:16,409 - INFO -     Coluna D: 50.0
+2025-08-08 15:36:16,409 - INFO -     Coluna E: 2700.0
+2025-08-08 15:36:16,410 - INFO -     Coluna F: 558.0
+2025-08-08 15:36:16,410 - INFO -     Coluna G: I159
+2025-08-08 15:36:16,410 - INFO -     Coluna H: I159
+2025-08-08 15:36:16,410 - INFO -     Coluna I: N
+2025-08-08 15:36:16,410 - INFO -     Coluna J: 6290.0
+2025-08-08 15:36:16,410 - INFO -     Coluna K: 4.0
+2025-08-08 15:36:16,410 - INFO -     Coluna L: 50.0
+2025-08-08 15:36:16,410 - INFO -     Coluna M: 1050.0
+2025-08-08 15:36:16,410 - INFO -     Coluna N: 558.0
+2025-08-08 15:36:16,410 - INFO -     Coluna O: I159
+2025-08-08 15:36:16,410 - INFO -     Coluna P: I159
+2025-08-08 15:36:16,411 - INFO -     Coluna Q: N
+2025-08-08 15:36:16,411 - INFO -     Coluna R: 6290.0
+2025-08-08 15:36:16,411 - INFO -     Coluna S: 2.0
+2025-08-08 15:36:16,411 - INFO -     Coluna T: JG
+2025-08-08 15:36:16,411 - INFO -     Coluna U: 3100.0
+2025-08-08 15:36:16,411 - INFO -     Coluna V: 1.0
+2025-08-08 15:36:16,411 - INFO -     Coluna W: EST
+2025-08-08 15:36:16,555 - INFO - Executando login...
+2025-08-08 15:36:16,556 - INFO - Iniciando execução e login no programa
+2025-08-08 15:36:16,557 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-08-08 15:36:17,570 - INFO - Programa iniciado com PID: 27960
+2025-08-08 15:36:17,570 - INFO - Aguardando abertura da janela do programa...
+2025-08-08 15:36:20,580 - INFO - Iniciando processo de login...
+2025-08-08 15:36:20,581 - INFO - Inserindo nome de usuário
+2025-08-08 15:36:22,784 - INFO - Inserindo senha
+2025-08-08 15:36:24,988 - INFO - Usando número de empresa: 200
+2025-08-08 15:36:28,192 - INFO - Login realizado com sucesso - Empresa: 200
+2025-08-08 15:36:28,341 - INFO - 
+🛑 Execução interrompida pelo usuário.

@@ -1,0 +1,16 @@
+2025-09-05 11:54:49,276 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-05 11:54:49,276 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-05 11:54:49,279 - INFO - Padrão *.xlsx: 2 arquivos encontrados
+2025-09-05 11:54:49,280 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-05 11:54:49,280 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-05 11:54:49,280 - INFO - Total de arquivos encontrados: 2
+2025-09-05 11:54:49,283 - INFO - Arquivo: 916.xlsx
+2025-09-05 11:54:49,283 - INFO -   Data modificação: Fri Sep  5 11:53:16 2025
+2025-09-05 11:54:49,284 - INFO -   Tamanho: 46496 bytes
+2025-09-05 11:54:49,286 - INFO - Arquivo: ~$916.xlsx
+2025-09-05 11:54:49,286 - INFO -   Data modificação: Fri Sep  5 11:53:46 2025
+2025-09-05 11:54:49,286 - INFO -   Tamanho: 165 bytes
+2025-09-05 11:54:49,287 - INFO - Arquivo mais recente selecionado: ~$916.xlsx
+2025-09-05 11:54:49,287 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\~$916.xlsx
+2025-09-05 11:54:49,287 - INFO -   Data: Fri Sep  5 11:53:46 2025
+2025-09-05 11:54:49,287 - INFO - Procurando próxima linha sem PA na coluna B (aba (916))...

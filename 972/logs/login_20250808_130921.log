@@ -1,0 +1,160 @@
+2025-08-08 13:09:21,337 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-08-08 13:09:21,338 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 13:09:21,341 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 13:09:21,341 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 13:09:21,341 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 13:09:21,342 - INFO - Total de arquivos encontrados: 1
+2025-08-08 13:09:21,348 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:21,349 - INFO -   Data modificação: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:21,355 - INFO -   Tamanho: 22020 bytes
+2025-08-08 13:09:21,355 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:21,355 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:21,355 - INFO -   Data: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:21,356 - INFO - Procurando próxima linha sem PA na coluna B (aba com 614)...
+2025-08-08 13:09:21,768 - INFO - Procurando aba com (614) no nome...
+2025-08-08 13:09:21,790 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 13:09:21,790 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:21,790 - INFO - ✅ Aba com (614) encontrada: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:21,791 - INFO - Usando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:21,793 - INFO - Próxima linha para processar (sem PA na coluna B): 2
+2025-08-08 13:09:22,043 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 2 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-08-08 13:09:22,043 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-08-08 13:09:22,043 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÇÃO ===
+2025-08-08 13:09:22,043 - INFO - Iniciando processo completo...
+2025-08-08 13:09:22,044 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-08-08 13:09:22,044 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 13:09:22,044 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 13:09:22,044 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 13:09:22,045 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 13:09:22,045 - INFO - Total de arquivos encontrados: 1
+2025-08-08 13:09:22,046 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,046 - INFO -   Data modificação: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:22,046 - INFO -   Tamanho: 22020 bytes
+2025-08-08 13:09:22,046 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,046 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,046 - INFO -   Data: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:22,046 - INFO - Procurando próxima linha sem PA na coluna B (aba com 614)...
+2025-08-08 13:09:22,416 - INFO - Procurando aba com (614) no nome...
+2025-08-08 13:09:22,437 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 13:09:22,438 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:22,438 - INFO - ✅ Aba com (614) encontrada: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:22,438 - INFO - Usando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:22,441 - INFO - Próxima linha para processar (sem PA na coluna B): 2
+2025-08-08 13:09:22,683 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 13:09:22,684 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 13:09:22,684 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 13:09:22,685 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 13:09:22,685 - INFO - Total de arquivos encontrados: 1
+2025-08-08 13:09:22,686 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,686 - INFO -   Data modificação: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:22,687 - INFO -   Tamanho: 22020 bytes
+2025-08-08 13:09:22,687 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,687 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:22,687 - INFO -   Data: Fri Aug  8 12:44:50 2025
+2025-08-08 13:09:22,687 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:23,368 - INFO - Planilha aberta com sucesso!
+2025-08-08 13:09:23,369 - INFO - Procurando aba com (614) no nome...
+2025-08-08 13:09:23,394 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 13:09:23,395 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:23,395 - INFO - ✅ Aba com (614) encontrada: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:23,396 - INFO - Usando aba: ESTOQUE - PA BATENTE JG (614), linha: 2
+2025-08-08 13:09:23,396 - INFO - Número extraído do nome da aba 'ESTOQUE - PA BATENTE JG (614)': 614
+2025-08-08 13:09:23,426 - INFO - Dados lidos da aba COM (614) - linha 2:
+2025-08-08 13:09:23,426 - INFO -   Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:09:23,426 - INFO -   Nome da aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:23,426 - INFO -   Número extraído da aba: 614 (✅ CORRETO)
+2025-08-08 13:09:23,427 - INFO -   Coluna A (controle): ESTOQUE - PA BATENTE JG (614)
+2025-08-08 13:09:23,427 - INFO -   Coluna B (PA existente): None
+2025-08-08 13:09:23,427 - INFO -   Coluna C: I
+2025-08-08 13:09:23,427 - INFO -   Coluna D: 70.0
+2025-08-08 13:09:23,427 - INFO -   Coluna E: 2135.0
+2025-08-08 13:09:23,427 - INFO -   Coluna F: I
+2025-08-08 13:09:23,427 - INFO -   Coluna G: 35.0
+2025-08-08 13:09:23,427 - INFO -   Coluna H: N
+2025-08-08 13:09:23,427 - INFO -   Coluna I: RB40
+2025-08-08 13:09:23,427 - INFO -   Coluna J: 2.0
+2025-08-08 13:09:23,427 - INFO -   Coluna K: 150.0
+2025-08-08 13:09:23,427 - INFO -   Coluna L: 1008.0
+2025-08-08 13:09:23,428 - INFO -   Coluna M: I
+2025-08-08 13:09:23,428 - INFO -   Coluna N: 35.0
+2025-08-08 13:09:23,428 - INFO -   Coluna O: N
+2025-08-08 13:09:23,428 - INFO -   Coluna P: RB40
+2025-08-08 13:09:23,428 - INFO -   Coluna Q: 1.0
+2025-08-08 13:09:23,428 - INFO -   Coluna R: JG
+2025-08-08 13:09:23,428 - INFO -   Coluna S: 2001.0
+2025-08-08 13:09:23,428 - INFO -   Coluna T: SUSIN
+2025-08-08 13:09:23,428 - INFO -   Coluna U: SUSIN
+2025-08-08 13:09:23,428 - INFO -   Coluna V: 1.0
+2025-08-08 13:09:23,428 - INFO -   Coluna W: EST
+2025-08-08 13:09:23,667 - INFO - Executando login...
+2025-08-08 13:09:23,667 - INFO - Iniciando execução e login no programa
+2025-08-08 13:09:23,668 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-08-08 13:09:24,474 - INFO - Programa iniciado com PID: 22924
+2025-08-08 13:09:24,474 - INFO - Aguardando abertura da janela do programa...
+2025-08-08 13:09:27,476 - INFO - Iniciando processo de login...
+2025-08-08 13:09:27,477 - INFO - Inserindo nome de usuário
+2025-08-08 13:09:29,686 - INFO - Inserindo senha
+2025-08-08 13:09:31,892 - INFO - Usando número de empresa: 200
+2025-08-08 13:09:35,103 - INFO - Login realizado com sucesso - Empresa: 200
+2025-08-08 13:09:38,103 - INFO - Acessando configurador...
+2025-08-08 13:09:38,104 - INFO - Iniciando acesso ao configurador...
+2025-08-08 13:09:40,105 - INFO - Passo 1: Procurando e clicando no menu systeam...
+2025-08-08 13:09:40,107 - INFO - Procurando imagem: img/menu systeam.PNG
+2025-08-08 13:09:40,203 - INFO - Imagem encontrada em: Point(x=np.int64(26), y=np.int64(42))
+2025-08-08 13:09:40,325 - INFO - Clique realizado em: Point(x=np.int64(26), y=np.int64(42))
+2025-08-08 13:09:40,827 - INFO - Passo 2: Digitando 'configurador'...
+2025-08-08 13:09:40,828 - INFO - Digitando texto: configurador
+2025-08-08 13:09:41,442 - INFO - Passo 3: Procurando e clicando no módulo...
+2025-08-08 13:09:41,443 - INFO - Procurando imagem: img/modulo item por descricao.PNG
+2025-08-08 13:09:41,555 - INFO - Imagem encontrada em: Point(x=np.int64(660), y=np.int64(246))
+2025-08-08 13:09:41,669 - INFO - Clique realizado em: Point(x=np.int64(660), y=np.int64(246))
+2025-08-08 13:09:41,670 - INFO - Configurador acessado com sucesso!
+2025-08-08 13:09:42,670 - INFO - Pesquisando tipo 614...
+2025-08-08 13:09:42,671 - INFO - Iniciando pesquisa do tipo: 614
+2025-08-08 13:09:44,672 - INFO - Passo 1: Procurando e clicando no botão pesquisar tipos...
+2025-08-08 13:09:44,674 - INFO - Procurando imagem: img/pesquisar tipos 615.PNG
+2025-08-08 13:09:44,763 - INFO - Imagem encontrada em: Point(x=np.int64(620), y=np.int64(78))
+2025-08-08 13:09:44,888 - INFO - Clique realizado em: Point(x=np.int64(620), y=np.int64(78))
+2025-08-08 13:09:45,389 - INFO - Passo 2: Digitando '614'...
+2025-08-08 13:09:45,390 - INFO - Digitando texto: 614
+2025-08-08 13:09:46,094 - INFO - Pesquisa do tipo 614 realizada com sucesso!
+2025-08-08 13:09:46,095 - INFO - Processo completo executado com sucesso!
+2025-08-08 13:09:48,096 - INFO - Navegando com 7x Tab...
+2025-08-08 13:09:49,199 - INFO - Tab 1/7 pressionado
+2025-08-08 13:09:49,601 - INFO - Tab 2/7 pressionado
+2025-08-08 13:09:50,005 - INFO - Tab 3/7 pressionado
+2025-08-08 13:09:50,408 - INFO - Tab 4/7 pressionado
+2025-08-08 13:09:50,811 - INFO - Tab 5/7 pressionado
+2025-08-08 13:09:51,212 - INFO - Tab 6/7 pressionado
+2025-08-08 13:09:51,615 - INFO - Tab 7/7 pressionado
+2025-08-08 13:09:51,916 - INFO - Navegação com 7x Tab concluída!
+2025-08-08 13:09:52,918 - INFO - Processando linha 2
+2025-08-08 13:09:52,919 - INFO - Iniciando inserção de dados da planilha - COLUNAS C até W...
+2025-08-08 13:09:53,920 - INFO - === INSERINDO COLUNAS C ATÉ L ===
+2025-08-08 13:09:53,921 - INFO - Inserindo C: 'I'
+2025-08-08 13:09:56,128 - INFO - Inserindo D: '70'
+2025-08-08 13:09:58,335 - INFO - Inserindo E: '2135'
+2025-08-08 13:10:00,544 - INFO - Inserindo F: 'I'
+2025-08-08 13:10:02,748 - INFO - Inserindo G: '35'
+2025-08-08 13:10:04,951 - INFO - Inserindo H: 'N'
+2025-08-08 13:10:07,157 - INFO - Inserindo I: 'RB40'
+2025-08-08 13:10:09,365 - INFO - Inserindo J: '2'
+2025-08-08 13:10:11,571 - INFO - Inserindo K: '150'
+2025-08-08 13:10:13,776 - INFO - Inserindo L: '1008'
+2025-08-08 13:10:14,880 - INFO - === PULANDO COLUNAS M, N, O, P (4 TABS) ===
+2025-08-08 13:10:14,982 - INFO - Tab 1/4 para pular coluna M
+2025-08-08 13:10:16,085 - INFO - Tab 2/4 para pular coluna N
+2025-08-08 13:10:17,187 - INFO - Tab 3/4 para pular coluna O
+2025-08-08 13:10:18,290 - INFO - Tab 4/4 para pular coluna P
+2025-08-08 13:10:19,291 - INFO - === INSERINDO COLUNAS Q ATÉ W ===
+2025-08-08 13:10:19,291 - INFO - Inserindo Q: '1'
+2025-08-08 13:10:21,493 - INFO - Inserindo R: 'JG'
+2025-08-08 13:10:23,700 - INFO - Inserindo S: '2001'
+2025-08-08 13:10:25,910 - INFO - Inserindo T: 'SUSIN'
+2025-08-08 13:10:28,127 - INFO - Inserindo U: 'SUSIN'
+2025-08-08 13:10:30,344 - INFO - Inserindo V: '1'
+2025-08-08 13:10:32,506 - INFO - 
+🛑 Execução interrompida pelo usuário.

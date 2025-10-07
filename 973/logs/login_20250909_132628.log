@@ -1,0 +1,144 @@
+2025-09-09 13:26:28,764 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-09 13:26:28,764 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 13:26:28,765 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 13:26:28,765 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 13:26:28,765 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 13:26:28,765 - INFO - Total de arquivos encontrados: 1
+2025-09-09 13:26:28,767 - INFO - Arquivo: 973.xlsx
+2025-09-09 13:26:28,768 - INFO -   Data modificação: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:28,774 - INFO -   Tamanho: 39878 bytes
+2025-09-09 13:26:28,774 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 13:26:28,774 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 13:26:28,774 - INFO -   Data: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:28,774 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 13:26:29,437 - INFO - Procurando aba com (973) no nome...
+2025-09-09 13:26:29,441 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,442 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,442 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,452 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-09 13:26:29,585 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 4 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-09 13:26:29,585 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-09 13:26:29,585 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÇÃO ===
+2025-09-09 13:26:29,586 - INFO - Iniciando processo completo...
+2025-09-09 13:26:29,586 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-09 13:26:29,586 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 13:26:29,586 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 13:26:29,586 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 13:26:29,587 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 13:26:29,587 - INFO - Total de arquivos encontrados: 1
+2025-09-09 13:26:29,588 - INFO - Arquivo: 973.xlsx
+2025-09-09 13:26:29,588 - INFO -   Data modificação: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:29,588 - INFO -   Tamanho: 39878 bytes
+2025-09-09 13:26:29,589 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 13:26:29,589 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 13:26:29,589 - INFO -   Data: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:29,589 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 13:26:29,946 - INFO - Procurando aba com (973) no nome...
+2025-09-09 13:26:29,949 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,949 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,950 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:29,958 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-09 13:26:30,086 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 13:26:30,087 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 13:26:30,087 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 13:26:30,087 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 13:26:30,087 - INFO - Total de arquivos encontrados: 1
+2025-09-09 13:26:30,090 - INFO - Arquivo: 973.xlsx
+2025-09-09 13:26:30,090 - INFO -   Data modificação: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:30,090 - INFO -   Tamanho: 39878 bytes
+2025-09-09 13:26:30,090 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 13:26:30,090 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 13:26:30,090 - INFO -   Data: Tue Sep  9 13:26:25 2025
+2025-09-09 13:26:30,090 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 13:26:30,795 - INFO - Planilha aberta com sucesso!
+2025-09-09 13:26:30,796 - INFO - Procurando aba com (973) no nome...
+2025-09-09 13:26:30,799 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:30,799 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 13:26:30,800 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 4
+2025-09-09 13:26:30,800 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 13:26:30,831 - INFO - Dados lidos da aba configurada - linha 4:
+2025-09-09 13:26:30,831 - INFO -   Arquivo: 973.xlsx
+2025-09-09 13:26:30,832 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 13:26:30,832 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 13:26:30,832 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 13:26:30,832 - INFO -   Coluna B (PA existente): None
+2025-09-09 13:26:30,832 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 13:26:30,832 - INFO -     Coluna C: 1.0
+2025-09-09 13:26:30,832 - INFO -     Coluna D: 90.0
+2025-09-09 13:26:30,832 - INFO -     Coluna E: 2135.0
+2025-09-09 13:26:30,832 - INFO -     Coluna F: INP
+2025-09-09 13:26:30,832 - INFO -     Coluna G: 35.0
+2025-09-09 13:26:30,832 - INFO -     Coluna H: N
+2025-09-09 13:26:30,832 - INFO -     Coluna I: RB40
+2025-09-09 13:26:30,832 - INFO -     Coluna J: 2.0
+2025-09-09 13:26:30,832 - INFO -     Coluna K: 90.0
+2025-09-09 13:26:30,832 - INFO -     Coluna L: 1008.0
+2025-09-09 13:26:30,833 - INFO -     Coluna M: INP
+2025-09-09 13:26:30,833 - INFO -     Coluna N: 35.0
+2025-09-09 13:26:30,833 - INFO -     Coluna O: N
+2025-09-09 13:26:30,833 - INFO -     Coluna P: RB40
+2025-09-09 13:26:30,833 - INFO -     Coluna Q: 1.0
+2025-09-09 13:26:30,833 - INFO -     Coluna R: JG
+2025-09-09 13:26:30,833 - INFO -     Coluna S: 2103.0
+2025-09-09 13:26:30,833 - INFO -     Coluna T: SUSIN
+2025-09-09 13:26:30,833 - INFO -     Coluna U: SUSIN
+2025-09-09 13:26:30,962 - INFO - Executando login...
+2025-09-09 13:26:30,962 - INFO - Iniciando execução e login no programa
+2025-09-09 13:26:30,963 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-09 13:26:31,899 - INFO - Programa iniciado com PID: 19776
+2025-09-09 13:26:31,899 - INFO - Aguardando abertura da janela do programa...
+2025-09-09 13:26:34,900 - INFO - Iniciando processo de login...
+2025-09-09 13:26:34,901 - INFO - Inserindo nome de usuário
+2025-09-09 13:26:37,107 - INFO - Inserindo senha
+2025-09-09 13:26:39,319 - INFO - Usando número de empresa: 200
+2025-09-09 13:26:42,531 - INFO - Login realizado com sucesso - Empresa: 200
+2025-09-09 13:26:45,533 - INFO - Acessando configurador...
+2025-09-09 13:26:45,534 - INFO - Iniciando acesso ao configurador...
+2025-09-09 13:26:47,536 - INFO - Passo 1: Procurando e clicando no menu systeam...
+2025-09-09 13:26:47,537 - INFO - Procurando imagem: img/menu systeam.PNG
+2025-09-09 13:26:47,607 - INFO - Imagem encontrada em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-09 13:26:47,711 - INFO - Clique realizado em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-09 13:26:48,213 - INFO - Passo 2: Digitando 'configurador'...
+2025-09-09 13:26:48,215 - INFO - Digitando texto: configurador
+2025-09-09 13:26:48,828 - INFO - Passo 3: Procurando e clicando no módulo...
+2025-09-09 13:26:48,829 - INFO - Procurando imagem: img/modulo item por descricao.PNG
+2025-09-09 13:26:48,926 - INFO - Imagem encontrada em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-09 13:26:49,056 - INFO - Clique realizado em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-09 13:26:49,056 - INFO - Configurador acessado com sucesso!
+2025-09-09 13:26:50,057 - INFO - Pesquisando tipo 973...
+2025-09-09 13:26:50,058 - INFO - Iniciando pesquisa do tipo: 973
+2025-09-09 13:26:52,059 - INFO - Passo 1: Procurando e clicando no botão pesquisar tipos...
+2025-09-09 13:26:52,060 - INFO - Procurando imagem: img/pesquisar tipos 615.PNG
+2025-09-09 13:26:52,129 - INFO - Imagem encontrada em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-09 13:26:52,243 - INFO - Clique realizado em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-09 13:26:52,744 - INFO - Passo 2: Digitando '973'...
+2025-09-09 13:26:52,746 - INFO - Digitando texto: 973
+2025-09-09 13:26:53,450 - INFO - Pesquisa do tipo 973 realizada com sucesso!
+2025-09-09 13:26:53,452 - INFO - Processo completo executado com sucesso!
+2025-09-09 13:26:55,453 - INFO - Navegando com 7x Tab...
+2025-09-09 13:26:56,556 - INFO - Tab 1/7 pressionado
+2025-09-09 13:26:56,959 - INFO - Tab 2/7 pressionado
+2025-09-09 13:26:57,361 - INFO - Tab 3/7 pressionado
+2025-09-09 13:26:57,764 - INFO - Tab 4/7 pressionado
+2025-09-09 13:26:58,167 - INFO - Tab 5/7 pressionado
+2025-09-09 13:26:58,570 - INFO - Tab 6/7 pressionado
+2025-09-09 13:26:58,972 - INFO - Tab 7/7 pressionado
+2025-09-09 13:26:59,274 - INFO - Navegação com 7x Tab concluída!
+2025-09-09 13:27:00,276 - INFO - Processando linha 4
+2025-09-09 13:27:00,276 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 13:27:00,276 - INFO - Preenchendo colunas: C até U
+2025-09-09 13:27:00,277 - INFO - Total de colunas: 19
+2025-09-09 13:27:01,277 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 13:27:03,079 - INFO - 📝 INSERINDO D: '90'
+2025-09-09 13:27:04,883 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 13:27:06,687 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 13:27:08,498 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 13:27:10,301 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 13:27:12,107 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 13:27:13,920 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 13:27:15,723 - INFO - 📝 INSERINDO K: '90'
+2025-09-09 13:27:16,649 - INFO - 
+🛑 Execução interrompida pelo usuário.

@@ -1,0 +1,16 @@
+2025-08-08 13:12:41,644 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-08-08 13:12:41,644 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 13:12:41,648 - INFO - Padrão *.xlsx: 2 arquivos encontrados
+2025-08-08 13:12:41,649 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 13:12:41,649 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 13:12:41,649 - INFO - Total de arquivos encontrados: 2
+2025-08-08 13:12:41,651 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:12:41,651 - INFO -   Data modificação: Fri Aug  8 12:44:50 2025
+2025-08-08 13:12:41,658 - INFO -   Tamanho: 22020 bytes
+2025-08-08 13:12:41,659 - INFO - Arquivo: ~$Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:12:41,659 - INFO -   Data modificação: Fri Aug  8 13:10:48 2025
+2025-08-08 13:12:41,659 - INFO -   Tamanho: 165 bytes
+2025-08-08 13:12:41,660 - INFO - Arquivo mais recente selecionado: ~$Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:12:41,660 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\~$Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:12:41,660 - INFO -   Data: Fri Aug  8 13:10:48 2025
+2025-08-08 13:12:41,660 - INFO - Procurando próxima linha sem PA na coluna B (aba com 614)...

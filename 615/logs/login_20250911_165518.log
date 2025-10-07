@@ -1,0 +1,167 @@
+2025-09-11 16:55:18,790 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-11 16:55:18,790 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-11 16:55:18,792 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-11 16:55:18,793 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-11 16:55:18,793 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-11 16:55:18,793 - INFO - Total de arquivos encontrados: 1
+2025-09-11 16:55:18,795 - INFO - Arquivo: 615.xlsx
+2025-09-11 16:55:18,795 - INFO -   Data modificação: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:18,801 - INFO -   Tamanho: 18111 bytes
+2025-09-11 16:55:18,801 - INFO - Arquivo mais recente selecionado: 615.xlsx
+2025-09-11 16:55:18,802 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\615.xlsx
+2025-09-11 16:55:18,802 - INFO -   Data: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:18,802 - INFO - Procurando próxima linha sem PA na coluna B (aba (615))...
+2025-09-11 16:55:19,188 - INFO - Procurando aba com (615) no nome...
+2025-09-11 16:55:19,214 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,215 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,215 - INFO - Usando aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,224 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-11 16:55:19,395 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 4 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-11 16:55:19,396 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-11 16:55:19,396 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÃ‡ÃƒO ===
+2025-09-11 16:55:19,396 - INFO - Iniciando processo completo...
+2025-09-11 16:55:19,396 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-11 16:55:19,396 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-11 16:55:19,397 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-11 16:55:19,397 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-11 16:55:19,397 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-11 16:55:19,397 - INFO - Total de arquivos encontrados: 1
+2025-09-11 16:55:19,398 - INFO - Arquivo: 615.xlsx
+2025-09-11 16:55:19,399 - INFO -   Data modificação: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:19,399 - INFO -   Tamanho: 18111 bytes
+2025-09-11 16:55:19,399 - INFO - Arquivo mais recente selecionado: 615.xlsx
+2025-09-11 16:55:19,399 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\615.xlsx
+2025-09-11 16:55:19,399 - INFO -   Data: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:19,399 - INFO - Procurando próxima linha sem PA na coluna B (aba (615))...
+2025-09-11 16:55:19,770 - INFO - Procurando aba com (615) no nome...
+2025-09-11 16:55:19,794 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,794 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,794 - INFO - Usando aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:19,803 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-11 16:55:19,972 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-11 16:55:19,973 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-11 16:55:19,973 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-11 16:55:19,973 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-11 16:55:19,974 - INFO - Total de arquivos encontrados: 1
+2025-09-11 16:55:19,975 - INFO - Arquivo: 615.xlsx
+2025-09-11 16:55:19,975 - INFO -   Data modificação: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:19,975 - INFO -   Tamanho: 18111 bytes
+2025-09-11 16:55:19,975 - INFO - Arquivo mais recente selecionado: 615.xlsx
+2025-09-11 16:55:19,975 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\615.xlsx
+2025-09-11 16:55:19,976 - INFO -   Data: Thu Sep 11 16:53:32 2025
+2025-09-11 16:55:19,976 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\615.xlsx
+2025-09-11 16:55:20,681 - INFO - Planilha aberta com sucesso!
+2025-09-11 16:55:20,681 - INFO - Procurando aba com (615) no nome...
+2025-09-11 16:55:20,707 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:20,708 - INFO - ✅ Aba configurada encontrada: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:20,708 - INFO - Usando aba: ESTOQUE - PA PORTA (615), linha: 4
+2025-09-11 16:55:20,708 - INFO - Número extraído do nome da aba 'ESTOQUE - PA PORTA (615)': 615
+2025-09-11 16:55:20,730 - INFO - Dados lidos da aba configurada - linha 4:
+2025-09-11 16:55:20,730 - INFO -   Arquivo: 615.xlsx
+2025-09-11 16:55:20,730 - INFO -   Nome da aba: ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:20,731 - INFO -   Número extraído: 615 (✅ CORRETO)
+2025-09-11 16:55:20,731 - INFO -   Coluna A (controle): ESTOQUE - PA PORTA (615)
+2025-09-11 16:55:20,731 - INFO -   Coluna B (PA existente): None
+2025-09-11 16:55:20,731 - INFO -   📋 COLUNAS CONFIGURADAS (C até P):
+2025-09-11 16:55:20,731 - INFO -     Coluna C: IB
+2025-09-11 16:55:20,731 - INFO -     Coluna D: 600.0
+2025-09-11 16:55:20,731 - INFO -     Coluna E: 2050.0
+2025-09-11 16:55:20,731 - INFO -     Coluna F: IB
+2025-09-11 16:55:20,731 - INFO -     Coluna G: IB
+2025-09-11 16:55:20,731 - INFO -     Coluna H: 35.0
+2025-09-11 16:55:20,731 - INFO -     Coluna I: LIS   
+2025-09-11 16:55:20,731 - INFO -     Coluna J: N
+2025-09-11 16:55:20,731 - INFO -     Coluna K: GIR
+2025-09-11 16:55:20,731 - INFO -     Coluna L: 1106.0
+2025-09-11 16:55:20,731 - INFO -     Coluna M: USINP
+2025-09-11 16:55:20,732 - INFO -     Coluna N: 0.0
+2025-09-11 16:55:20,732 - INFO -     Coluna O: 1.0
+2025-09-11 16:55:20,732 - INFO -     Coluna P: EST
+2025-09-11 16:55:20,903 - INFO - Executando login...
+2025-09-11 16:55:20,904 - INFO - Iniciando execução e login no programa
+2025-09-11 16:55:20,904 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-11 16:55:21,843 - INFO - Programa iniciado com PID: 22344
+2025-09-11 16:55:21,844 - INFO - Aguardando abertura da janela do programa...
+2025-09-11 16:55:24,846 - INFO - Iniciando processo de login...
+2025-09-11 16:55:24,847 - INFO - Inserindo nome de usuário
+2025-09-11 16:55:27,058 - INFO - Inserindo senha
+2025-09-11 16:55:29,269 - INFO - Usando número de empresa: 200
+2025-09-11 16:55:32,480 - INFO - Login realizado com sucesso - Empresa: 200
+2025-09-11 16:55:35,481 - INFO - Acessando configurador...
+2025-09-11 16:55:35,483 - INFO - Iniciando acesso ao configurador...
+2025-09-11 16:55:37,484 - INFO - Passo 1: Procurando e clicando no menu systeam...
+2025-09-11 16:55:37,485 - INFO - Procurando imagem: img/menu systeam.PNG
+2025-09-11 16:55:37,561 - INFO - Imagem encontrada em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-11 16:55:37,692 - INFO - Clique realizado em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-11 16:55:38,194 - INFO - Passo 2: Digitando 'configurador'...
+2025-09-11 16:55:38,194 - INFO - Digitando texto: configurador
+2025-09-11 16:55:38,799 - INFO - Passo 3: Procurando e clicando no módulo...
+2025-09-11 16:55:38,800 - INFO - Procurando imagem: img/modulo item por descricao.PNG
+2025-09-11 16:55:38,879 - INFO - Imagem encontrada em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-11 16:55:39,005 - INFO - Clique realizado em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-11 16:55:39,006 - INFO - Configurador acessado com sucesso!
+2025-09-11 16:55:40,007 - INFO - Pesquisando tipo 615...
+2025-09-11 16:55:40,008 - INFO - Iniciando pesquisa do tipo: 615
+2025-09-11 16:55:42,009 - INFO - Passo 1: Procurando e clicando no botão pesquisar tipos...
+2025-09-11 16:55:42,011 - INFO - Procurando imagem: img/pesquisar tipos 615.PNG
+2025-09-11 16:55:42,114 - INFO - Imagem encontrada em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-11 16:55:42,223 - INFO - Clique realizado em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-11 16:55:42,724 - INFO - Passo 2: Digitando '615'...
+2025-09-11 16:55:42,725 - INFO - Digitando texto: 615
+2025-09-11 16:55:43,431 - INFO - Pesquisa do tipo 615 realizada com sucesso!
+2025-09-11 16:55:43,432 - INFO - Processo completo executado com sucesso!
+2025-09-11 16:55:45,434 - INFO - Navegando com 7x Tab...
+2025-09-11 16:55:46,537 - INFO - Tab 1/7 pressionado
+2025-09-11 16:55:46,939 - INFO - Tab 2/7 pressionado
+2025-09-11 16:55:47,343 - INFO - Tab 3/7 pressionado
+2025-09-11 16:55:47,745 - INFO - Tab 4/7 pressionado
+2025-09-11 16:55:48,147 - INFO - Tab 5/7 pressionado
+2025-09-11 16:55:48,550 - INFO - Tab 6/7 pressionado
+2025-09-11 16:55:48,952 - INFO - Tab 7/7 pressionado
+2025-09-11 16:55:49,254 - INFO - NavegaÃ§Ã£o com 7x Tab concluÃ­da!
+2025-09-11 16:55:50,256 - INFO - Processando linha 4
+2025-09-11 16:55:50,257 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-11 16:55:50,257 - INFO - Preenchendo colunas: C atÃ© P
+2025-09-11 16:55:50,258 - INFO - Total de colunas: 14
+2025-09-11 16:55:50,258 - INFO - Colunas para pular: ['H', 'J', 'N', 'O']
+2025-09-11 16:55:50,259 - INFO - Tempo entre caracteres: 0.03s
+2025-09-11 16:55:50,260 - INFO - Tempo para pular colunas: 0.1s
+2025-09-11 16:55:51,262 - INFO - Digitando campo C: 'IB'
+2025-09-11 16:55:51,263 - INFO - Digitando (otimizado): 'IB' (intervalo: 0.03s)
+2025-09-11 16:55:52,571 - INFO - Digitando campo D: '600'
+2025-09-11 16:55:52,572 - INFO - Digitando (otimizado): '600' (intervalo: 0.03s)
+2025-09-11 16:55:53,880 - INFO - Digitando campo E: '2050'
+2025-09-11 16:55:53,881 - INFO - Digitando (otimizado): '2050' (intervalo: 0.03s)
+2025-09-11 16:55:55,189 - INFO - Digitando campo F: 'IB'
+2025-09-11 16:55:55,190 - INFO - Digitando (otimizado): 'IB' (intervalo: 0.03s)
+2025-09-11 16:55:56,498 - INFO - Digitando campo G: 'IB'
+2025-09-11 16:55:56,498 - INFO - Digitando (otimizado): 'IB' (intervalo: 0.03s)
+2025-09-11 16:55:57,803 - INFO - Pulando coluna H (configurada para pular)
+2025-09-11 16:55:58,006 - INFO - Digitando campo I: 'LIS'
+2025-09-11 16:55:58,007 - INFO - Digitando (otimizado): 'LIS' (intervalo: 0.03s)
+2025-09-11 16:55:59,322 - INFO - Pulando coluna J (configurada para pular)
+2025-09-11 16:55:59,525 - INFO - Digitando campo K: 'GIR'
+2025-09-11 16:55:59,526 - INFO - Digitando (otimizado): 'GIR' (intervalo: 0.03s)
+2025-09-11 16:56:00,834 - INFO - Digitando campo L: '1106'
+2025-09-11 16:56:00,835 - INFO - Digitando (otimizado): '1106' (intervalo: 0.03s)
+2025-09-11 16:56:02,144 - INFO - Digitando campo M: 'USINP'
+2025-09-11 16:56:02,145 - INFO - Digitando (otimizado): 'USINP' (intervalo: 0.03s)
+2025-09-11 16:56:03,455 - INFO - Pulando coluna N (configurada para pular)
+2025-09-11 16:56:03,657 - INFO - Pulando coluna O (configurada para pular)
+2025-09-11 16:56:03,859 - INFO - Digitando campo P: 'EST'
+2025-09-11 16:56:03,860 - INFO - Digitando (otimizado): 'EST' (intervalo: 0.03s)
+2025-09-11 16:56:04,568 - INFO - Pressionando F2 para finalizar...
+2025-09-11 16:56:04,670 - INFO - Aguardando apÃ³s F2...
+2025-09-11 16:56:07,671 - INFO - InserÃ§Ã£o configurada concluÃ­da!
+2025-09-11 16:56:07,672 - INFO - === PROCESSANDO RESULTADO APÃ“S F2 ===
+2025-09-11 16:56:10,768 - INFO - ITEM NOVO DETECTADO - janela CONFIRMAR.PNG encontrada!
+2025-09-11 16:56:10,768 - INFO - Procurando e clicando em img/SIM.PNG...
+2025-09-11 16:56:10,973 - INFO - SIM clicado com sucesso na posiÃ§Ã£o: Point(x=np.int64(861), y=np.int64(517))
+2025-09-11 16:56:10,973 - INFO - Aguardando sistema processar apÃ³s SIM...
+2025-09-11 16:56:15,974 - INFO - Aguardando janela informacao.PNG aparecer apÃ³s SIM...
+2025-09-11 16:56:15,974 - INFO - Aguardando janela informacao.PNG aparecer apÃ³s confirmar item novo...
+2025-09-11 16:56:18,465 - INFO - 
+🛑 Execução interrompida pelo usuário.

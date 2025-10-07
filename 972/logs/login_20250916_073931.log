@@ -1,0 +1,777 @@
+2025-09-16 07:39:31,362 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-16 07:39:31,362 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:39:31,362 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:39:31,363 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:39:31,363 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:39:31,363 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:39:31,365 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:39:31,365 - INFO -   Data modificação: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:31,372 - INFO -   Tamanho: 58975 bytes
+2025-09-16 07:39:31,372 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:39:31,372 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:39:31,373 - INFO -   Data: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:31,373 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:39:32,092 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:39:32,097 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:32,097 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:32,097 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:32,109 - INFO - Próxima linha para processar (sem PA na coluna B): 3
+2025-09-16 07:39:32,273 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 3 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-16 07:39:32,273 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-16 07:39:32,273 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÃ‡ÃƒO ===
+2025-09-16 07:39:32,274 - INFO - Iniciando processo completo...
+2025-09-16 07:39:32,274 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-16 07:39:32,274 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:39:32,274 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:39:32,275 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:39:32,275 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:39:32,275 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:39:32,281 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:39:32,282 - INFO -   Data modificação: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:32,282 - INFO -   Tamanho: 58975 bytes
+2025-09-16 07:39:32,282 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:39:32,282 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:39:32,282 - INFO -   Data: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:32,282 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:39:32,988 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:39:32,991 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:32,992 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:32,992 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:33,000 - INFO - Próxima linha para processar (sem PA na coluna B): 3
+2025-09-16 07:39:33,161 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:39:33,162 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:39:33,162 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:39:33,162 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:39:33,163 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:39:33,164 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:39:33,164 - INFO -   Data modificação: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:33,164 - INFO -   Tamanho: 58975 bytes
+2025-09-16 07:39:33,164 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:39:33,165 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:39:33,165 - INFO -   Data: Tue Sep 16 07:32:54 2025
+2025-09-16 07:39:33,165 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:39:33,553 - INFO - Planilha aberta com sucesso!
+2025-09-16 07:39:33,553 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:39:33,556 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:33,556 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:33,556 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 3
+2025-09-16 07:39:33,557 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 07:39:33,592 - INFO - Dados lidos da aba configurada - linha 3:
+2025-09-16 07:39:33,593 - INFO -   Arquivo: 972.xlsx
+2025-09-16 07:39:33,593 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:33,593 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 07:39:33,593 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 07:39:33,593 - INFO -   Coluna B (PA existente): None
+2025-09-16 07:39:33,593 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 07:39:33,593 - INFO -     Coluna C: INP
+2025-09-16 07:39:33,593 - INFO -     Coluna D: 50.0
+2025-09-16 07:39:33,593 - INFO -     Coluna E: 2230.0
+2025-09-16 07:39:33,593 - INFO -     Coluna F: 558.0
+2025-09-16 07:39:33,593 - INFO -     Coluna G: INP
+2025-09-16 07:39:33,593 - INFO -     Coluna H: 15.0
+2025-09-16 07:39:33,593 - INFO -     Coluna I: N
+2025-09-16 07:39:33,594 - INFO -     Coluna J: 6290.0
+2025-09-16 07:39:33,594 - INFO -     Coluna K: 4.0
+2025-09-16 07:39:33,594 - INFO -     Coluna L: 50.0
+2025-09-16 07:39:33,594 - INFO -     Coluna M: 1050.0
+2025-09-16 07:39:33,594 - INFO -     Coluna N: 558.0
+2025-09-16 07:39:33,594 - INFO -     Coluna O: INP
+2025-09-16 07:39:33,594 - INFO -     Coluna P: 9.0
+2025-09-16 07:39:33,594 - INFO -     Coluna Q: N
+2025-09-16 07:39:33,594 - INFO -     Coluna R: 6290.0
+2025-09-16 07:39:33,594 - INFO -     Coluna S: 2.0
+2025-09-16 07:39:33,594 - INFO -     Coluna T: JG
+2025-09-16 07:39:33,594 - INFO -     Coluna U: 3103.0
+2025-09-16 07:39:33,757 - INFO - Executando login...
+2025-09-16 07:39:33,758 - INFO - Iniciando execução e login no programa
+2025-09-16 07:39:33,758 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-16 07:39:33,791 - INFO - Programa iniciado com PID: 38812
+2025-09-16 07:39:33,791 - INFO - Aguardando abertura da janela do programa...
+2025-09-16 07:39:36,793 - INFO - Iniciando processo de login...
+2025-09-16 07:39:36,794 - INFO - Inserindo nome de usuário
+2025-09-16 07:39:39,002 - INFO - Inserindo senha
+2025-09-16 07:39:41,213 - INFO - Usando número de empresa: 200
+2025-09-16 07:39:44,423 - INFO - Login realizado com sucesso - Empresa: 200
+2025-09-16 07:39:47,425 - INFO - Acessando configurador...
+2025-09-16 07:39:47,426 - INFO - Iniciando acesso ao configurador...
+2025-09-16 07:39:49,428 - INFO - Passo 1: Procurando e clicando no menu systeam...
+2025-09-16 07:39:49,428 - INFO - Procurando imagem: img/menu systeam.PNG
+2025-09-16 07:39:49,512 - INFO - Imagem encontrada em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-16 07:39:49,639 - INFO - Clique realizado em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-16 07:39:50,141 - INFO - Passo 2: Digitando 'configurador'...
+2025-09-16 07:39:50,142 - INFO - Digitando texto: configurador
+2025-09-16 07:39:50,750 - INFO - Passo 3: Procurando e clicando no módulo...
+2025-09-16 07:39:50,752 - INFO - Procurando imagem: img/modulo item por descricao.PNG
+2025-09-16 07:39:50,823 - INFO - Imagem encontrada em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-16 07:39:50,951 - INFO - Clique realizado em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-16 07:39:50,952 - INFO - Configurador acessado com sucesso!
+2025-09-16 07:39:51,953 - INFO - Pesquisando tipo 972...
+2025-09-16 07:39:51,954 - INFO - Iniciando pesquisa do tipo: 972
+2025-09-16 07:39:53,955 - INFO - Passo 1: Procurando e clicando no botão pesquisar tipos...
+2025-09-16 07:39:53,957 - INFO - Procurando imagem: img/pesquisar tipos 615.PNG
+2025-09-16 07:39:54,040 - INFO - Imagem encontrada em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-16 07:39:54,171 - INFO - Clique realizado em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-16 07:39:54,672 - INFO - Passo 2: Digitando '972'...
+2025-09-16 07:39:54,673 - INFO - Digitando texto: 972
+2025-09-16 07:39:55,378 - INFO - Pesquisa do tipo 972 realizada com sucesso!
+2025-09-16 07:39:55,379 - INFO - Processo completo executado com sucesso!
+2025-09-16 07:39:57,382 - INFO - Navegando com 7x Tab...
+2025-09-16 07:39:58,485 - INFO - Tab 1/7 pressionado
+2025-09-16 07:39:58,887 - INFO - Tab 2/7 pressionado
+2025-09-16 07:39:59,289 - INFO - Tab 3/7 pressionado
+2025-09-16 07:39:59,693 - INFO - Tab 4/7 pressionado
+2025-09-16 07:40:00,096 - INFO - Tab 5/7 pressionado
+2025-09-16 07:40:00,499 - INFO - Tab 6/7 pressionado
+2025-09-16 07:40:00,902 - INFO - Tab 7/7 pressionado
+2025-09-16 07:40:01,203 - INFO - NavegaÃ§Ã£o com 7x Tab concluÃ­da!
+2025-09-16 07:40:02,205 - INFO - Processando linha 3
+2025-09-16 07:40:02,206 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-16 07:40:02,207 - INFO - Preenchendo colunas: C atÃ© U
+2025-09-16 07:40:02,207 - INFO - Total de colunas: 19
+2025-09-16 07:40:02,208 - INFO - Colunas para pular: ['H', 'I', 'K']
+2025-09-16 07:40:02,208 - INFO - Tempo entre caracteres: 0.05s
+2025-09-16 07:40:02,208 - INFO - Tempo para pular colunas: 0.1s
+2025-09-16 07:40:03,210 - INFO - Digitando campo C: 'INP'
+2025-09-16 07:40:03,211 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:40:05,124 - INFO - Digitando campo D: '50'
+2025-09-16 07:40:05,125 - INFO - Digitando (otimizado): '50' (intervalo: 0.05s)
+2025-09-16 07:40:07,032 - INFO - Digitando campo E: '2230'
+2025-09-16 07:40:07,033 - INFO - Digitando (otimizado): '2230' (intervalo: 0.05s)
+2025-09-16 07:40:08,938 - INFO - Digitando campo F: '558'
+2025-09-16 07:40:08,939 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:40:10,843 - INFO - Digitando campo G: 'INP'
+2025-09-16 07:40:10,844 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:40:12,752 - INFO - Pulando coluna H (configurada para pular)
+2025-09-16 07:40:12,954 - INFO - Pulando coluna I (configurada para pular)
+2025-09-16 07:40:13,157 - INFO - Digitando campo J: '6290'
+2025-09-16 07:40:13,157 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:40:15,063 - INFO - Pulando coluna K (configurada para pular)
+2025-09-16 07:40:15,264 - INFO - Digitando campo L: '50'
+2025-09-16 07:40:15,266 - INFO - Digitando (otimizado): '50' (intervalo: 0.05s)
+2025-09-16 07:40:17,172 - INFO - Digitando campo M: '1050'
+2025-09-16 07:40:17,173 - INFO - Digitando (otimizado): '1050' (intervalo: 0.05s)
+2025-09-16 07:40:19,078 - INFO - Digitando campo N: '558'
+2025-09-16 07:40:19,079 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:40:20,985 - INFO - Digitando campo O: 'INP'
+2025-09-16 07:40:20,986 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:40:22,897 - INFO - Digitando campo P: '9'
+2025-09-16 07:40:22,899 - INFO - Digitando (otimizado): '9' (intervalo: 0.05s)
+2025-09-16 07:40:24,805 - INFO - Digitando campo Q: 'N'
+2025-09-16 07:40:24,806 - INFO - Digitando (otimizado): 'N' (intervalo: 0.05s)
+2025-09-16 07:40:26,714 - INFO - Digitando campo R: '6290'
+2025-09-16 07:40:26,715 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:40:28,625 - INFO - Digitando campo S: '2'
+2025-09-16 07:40:28,626 - INFO - Digitando (otimizado): '2' (intervalo: 0.05s)
+2025-09-16 07:40:30,532 - INFO - Digitando campo T: 'JG'
+2025-09-16 07:40:30,532 - INFO - Digitando (otimizado): 'JG' (intervalo: 0.05s)
+2025-09-16 07:40:32,437 - INFO - Digitando campo U: '3103'
+2025-09-16 07:40:32,439 - INFO - Digitando (otimizado): '3103' (intervalo: 0.05s)
+2025-09-16 07:40:33,446 - INFO - Pressionando F2 para finalizar...
+2025-09-16 07:40:33,548 - INFO - Aguardando apÃ³s F2...
+2025-09-16 07:40:36,549 - INFO - InserÃ§Ã£o configurada concluÃ­da!
+2025-09-16 07:40:36,550 - INFO - === PROCESSANDO RESULTADO APÃ“S F2 ===
+2025-09-16 07:40:39,744 - INFO - ITEM JÃ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-16 07:40:39,744 - INFO - Extraindo PA da janela na posiÃ§Ã£o: Box(left=np.int64(675), top=np.int64(408), width=57, height=76)
+2025-09-16 07:40:39,745 - INFO - Capturando regiÃ£o da tela para OCR...
+2025-09-16 07:40:39,779 - INFO - Iniciando prÃ©-processamento da imagem para melhorar a leitura...
+2025-09-16 07:40:39,817 - INFO - Imagem prÃ©-processada para OCR salva como: DEBUG_imagem_para_ocr_1758019239.png
+2025-09-16 07:40:40,030 - INFO - TEXTO EXTRAÃDO DA IMAGEM PROCESSADA:
+Informação X
+Descrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -
+MDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 50 X
+15 E 2 PCS SUP. 1050 X 50 X 9 - REG. 55/8 MM - EMB. 3103 UM.
+10-16%" já cadastrada para o item “PA112822'
+
+2025-09-16 07:40:40,030 - INFO - Texto original do OCR: 'Informação X\nDescrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -\nMDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 50 X\n15 E 2 PCS SUP. 1050 X 50 X 9 - REG. 55/8 MM - EMB. 3103 UM.\n10-16%" já cadastrada para o item “PA112822\'\n'
+2025-09-16 07:40:40,031 - INFO - Texto apÃ³s correÃ§Ãµes automÃ¡ticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “AL1ZAR DE MDF UL7RA (RU) JG V701 - MDF PLU5 8RANC0 NEVE VRL62 90º C/ 4 PC5 LA7. 2230 X 50 X 15 E 2 PC5 5UP. 1050 X 50 X 9 - REG. 55/8 MM - EM8. 3103 UM. 10-16%" JÁ CADA57RADA PARA 0 17EM “PA112822\' '
+2025-09-16 07:40:40,031 - INFO - Testando padrÃ£o numÃ©rico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:40:40,032 - INFO - Testando padrÃ£o numÃ©rico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:40:40,032 - INFO - Testando padrÃ£o numÃ©rico 3: PA(\d{4,8})
+2025-09-16 07:40:40,033 - INFO - SUCESSO! PA numÃ©rico extraÃ­do com padrÃ£o 3: PA112822
+2025-09-16 07:40:41,134 - INFO - PA EXTRAÃDO: PA112822
+2025-09-16 07:40:41,136 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:40:41,141 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:40:41,142 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:40:41,144 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:40:41,145 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:40:41,148 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:40:41,148 - INFO -   Data modificação: Tue Sep 16 07:32:54 2025
+2025-09-16 07:40:41,148 - INFO -   Tamanho: 58975 bytes
+2025-09-16 07:40:41,149 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:40:41,149 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:40:41,149 - INFO -   Data: Tue Sep 16 07:32:54 2025
+2025-09-16 07:40:41,149 - INFO - Abrindo planilha '972.xlsx' para salvar o PA...
+2025-09-16 07:40:41,577 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:40:41,580 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:41,580 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:41,580 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:41,580 - INFO - Escrevendo o cÃ³digo 'PA112822' na cÃ©lula B3...
+2025-09-16 07:40:41,605 - INFO - Salvando o ficheiro Excel...
+2025-09-16 07:40:41,741 - INFO - Fechando o ficheiro Excel...
+2025-09-16 07:40:41,761 - INFO - Encerrando a instÃ¢ncia do Excel...
+2025-09-16 07:40:41,903 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-16 07:40:42,904 - INFO - CÃ³digo PA salvo na aba configurada - linha 3.
+2025-09-16 07:40:42,906 - INFO - === PROCESSO COMPLETO COM INSERÃ‡ÃƒO FINALIZADO ===
+2025-09-16 07:40:42,907 - INFO - ⏸️ Pausa 
+2025-09-16 07:40:43,909 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:40:43,910 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:40:43,911 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:40:43,911 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:40:43,911 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:40:43,914 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:40:43,914 - INFO -   Data modificação: Tue Sep 16 07:40:41 2025
+2025-09-16 07:40:43,915 - INFO -   Tamanho: 58997 bytes
+2025-09-16 07:40:43,915 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:40:43,915 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:40:43,915 - INFO -   Data: Tue Sep 16 07:40:41 2025
+2025-09-16 07:40:43,916 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:40:44,290 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:40:44,293 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:44,293 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:44,293 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:44,303 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-16 07:40:44,467 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 4 (Sucesso: 1, Falhas: 0)
+================================================================================
+2025-09-16 07:40:44,468 - INFO - 🔄 LINHA SEGUINTE (4) - Executando sequência de reinício...
+2025-09-16 07:40:44,468 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-16 07:40:44,468 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-16 07:40:44,555 - INFO - ✅ Janela de informação não está na tela.
+2025-09-16 07:40:44,556 - INFO - Dimensões da tela: 1746x922
+2025-09-16 07:40:44,556 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-16 07:40:46,329 - INFO - Passo 2: Pressionando Home.
+2025-09-16 07:40:46,930 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-16 07:40:46,931 - INFO - 📋 PROCESSANDO LINHA 4...
+2025-09-16 07:40:46,931 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:40:46,932 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:40:46,932 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:40:46,933 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:40:46,933 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:40:46,935 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:40:46,935 - INFO -   Data modificação: Tue Sep 16 07:40:41 2025
+2025-09-16 07:40:46,935 - INFO -   Tamanho: 58997 bytes
+2025-09-16 07:40:46,935 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:40:46,935 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:40:46,936 - INFO -   Data: Tue Sep 16 07:40:41 2025
+2025-09-16 07:40:46,936 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:40:47,324 - INFO - Planilha aberta com sucesso!
+2025-09-16 07:40:47,324 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:40:47,327 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:47,327 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:47,327 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 4
+2025-09-16 07:40:47,327 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 07:40:47,361 - INFO - Dados lidos da aba configurada - linha 4:
+2025-09-16 07:40:47,362 - INFO -   Arquivo: 972.xlsx
+2025-09-16 07:40:47,362 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:47,362 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 07:40:47,362 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 07:40:47,362 - INFO -   Coluna B (PA existente): None
+2025-09-16 07:40:47,363 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 07:40:47,363 - INFO -     Coluna C: INP
+2025-09-16 07:40:47,363 - INFO -     Coluna D: 70.0
+2025-09-16 07:40:47,363 - INFO -     Coluna E: 2230.0
+2025-09-16 07:40:47,363 - INFO -     Coluna F: 558.0
+2025-09-16 07:40:47,363 - INFO -     Coluna G: INP
+2025-09-16 07:40:47,363 - INFO -     Coluna H: 15.0
+2025-09-16 07:40:47,364 - INFO -     Coluna I: N
+2025-09-16 07:40:47,364 - INFO -     Coluna J: 6290.0
+2025-09-16 07:40:47,364 - INFO -     Coluna K: 4.0
+2025-09-16 07:40:47,364 - INFO -     Coluna L: 70.0
+2025-09-16 07:40:47,364 - INFO -     Coluna M: 1050.0
+2025-09-16 07:40:47,364 - INFO -     Coluna N: 558.0
+2025-09-16 07:40:47,364 - INFO -     Coluna O: INP
+2025-09-16 07:40:47,365 - INFO -     Coluna P: 9.0
+2025-09-16 07:40:47,365 - INFO -     Coluna Q: N
+2025-09-16 07:40:47,365 - INFO -     Coluna R: 6290.0
+2025-09-16 07:40:47,365 - INFO -     Coluna S: 2.0
+2025-09-16 07:40:47,365 - INFO -     Coluna T: JG
+2025-09-16 07:40:47,365 - INFO -     Coluna U: 3103.0
+2025-09-16 07:40:47,526 - INFO - Processando linha 4
+2025-09-16 07:40:47,526 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-16 07:40:47,526 - INFO - Preenchendo colunas: C atÃ© U
+2025-09-16 07:40:47,527 - INFO - Total de colunas: 19
+2025-09-16 07:40:47,527 - INFO - Colunas para pular: ['H', 'I', 'K']
+2025-09-16 07:40:47,527 - INFO - Tempo entre caracteres: 0.05s
+2025-09-16 07:40:47,527 - INFO - Tempo para pular colunas: 0.1s
+2025-09-16 07:40:48,528 - INFO - Digitando campo C: 'INP'
+2025-09-16 07:40:48,528 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:40:50,434 - INFO - Digitando campo D: '70'
+2025-09-16 07:40:50,436 - INFO - Digitando (otimizado): '70' (intervalo: 0.05s)
+2025-09-16 07:40:52,343 - INFO - Digitando campo E: '2230'
+2025-09-16 07:40:52,343 - INFO - Digitando (otimizado): '2230' (intervalo: 0.05s)
+2025-09-16 07:40:54,250 - INFO - Digitando campo F: '558'
+2025-09-16 07:40:54,250 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:40:56,156 - INFO - Digitando campo G: 'INP'
+2025-09-16 07:40:56,157 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:40:58,062 - INFO - Pulando coluna H (configurada para pular)
+2025-09-16 07:40:58,266 - INFO - Pulando coluna I (configurada para pular)
+2025-09-16 07:40:58,469 - INFO - Digitando campo J: '6290'
+2025-09-16 07:40:58,469 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:41:00,374 - INFO - Pulando coluna K (configurada para pular)
+2025-09-16 07:41:00,578 - INFO - Digitando campo L: '70'
+2025-09-16 07:41:00,579 - INFO - Digitando (otimizado): '70' (intervalo: 0.05s)
+2025-09-16 07:41:02,485 - INFO - Digitando campo M: '1050'
+2025-09-16 07:41:02,486 - INFO - Digitando (otimizado): '1050' (intervalo: 0.05s)
+2025-09-16 07:41:04,395 - INFO - Digitando campo N: '558'
+2025-09-16 07:41:04,396 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:41:06,300 - INFO - Digitando campo O: 'INP'
+2025-09-16 07:41:06,302 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:41:08,214 - INFO - Digitando campo P: '9'
+2025-09-16 07:41:08,215 - INFO - Digitando (otimizado): '9' (intervalo: 0.05s)
+2025-09-16 07:41:10,119 - INFO - Digitando campo Q: 'N'
+2025-09-16 07:41:10,120 - INFO - Digitando (otimizado): 'N' (intervalo: 0.05s)
+2025-09-16 07:41:12,026 - INFO - Digitando campo R: '6290'
+2025-09-16 07:41:12,027 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:41:13,938 - INFO - Digitando campo S: '2'
+2025-09-16 07:41:13,939 - INFO - Digitando (otimizado): '2' (intervalo: 0.05s)
+2025-09-16 07:41:15,845 - INFO - Digitando campo T: 'JG'
+2025-09-16 07:41:15,846 - INFO - Digitando (otimizado): 'JG' (intervalo: 0.05s)
+2025-09-16 07:41:17,754 - INFO - Digitando campo U: '3103'
+2025-09-16 07:41:17,755 - INFO - Digitando (otimizado): '3103' (intervalo: 0.05s)
+2025-09-16 07:41:18,761 - INFO - Pressionando F2 para finalizar...
+2025-09-16 07:41:18,862 - INFO - Aguardando apÃ³s F2...
+2025-09-16 07:41:21,864 - INFO - InserÃ§Ã£o configurada concluÃ­da!
+2025-09-16 07:41:21,865 - INFO - === PROCESSANDO RESULTADO APÃ“S F2 ===
+2025-09-16 07:41:25,056 - INFO - ITEM JÃ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-16 07:41:25,057 - INFO - Extraindo PA da janela na posiÃ§Ã£o: Box(left=np.int64(675), top=np.int64(408), width=57, height=76)
+2025-09-16 07:41:25,057 - INFO - Capturando regiÃ£o da tela para OCR...
+2025-09-16 07:41:25,093 - INFO - Iniciando prÃ©-processamento da imagem para melhorar a leitura...
+2025-09-16 07:41:25,119 - INFO - Imagem prÃ©-processada para OCR salva como: DEBUG_imagem_para_ocr_1758019285.png
+2025-09-16 07:41:25,327 - INFO - TEXTO EXTRAÃDO DA IMAGEM PROCESSADA:
+Informação X
+Descrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -
+MDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 70 X
+15 E 2 PCS SUP. 1050 X 70 X 9 - REG. 55/8 MM - EMB. 3103 UM.
+10-16%" já cadastrada para o item “PA112823'
+
+2025-09-16 07:41:25,327 - INFO - Texto original do OCR: 'Informação X\nDescrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -\nMDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 70 X\n15 E 2 PCS SUP. 1050 X 70 X 9 - REG. 55/8 MM - EMB. 3103 UM.\n10-16%" já cadastrada para o item “PA112823\'\n'
+2025-09-16 07:41:25,328 - INFO - Texto apÃ³s correÃ§Ãµes automÃ¡ticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “AL1ZAR DE MDF UL7RA (RU) JG V701 - MDF PLU5 8RANC0 NEVE VRL62 90º C/ 4 PC5 LA7. 2230 X 70 X 15 E 2 PC5 5UP. 1050 X 70 X 9 - REG. 55/8 MM - EM8. 3103 UM. 10-16%" JÁ CADA57RADA PARA 0 17EM “PA112823\' '
+2025-09-16 07:41:25,328 - INFO - Testando padrÃ£o numÃ©rico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:41:25,328 - INFO - Testando padrÃ£o numÃ©rico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:41:25,329 - INFO - Testando padrÃ£o numÃ©rico 3: PA(\d{4,8})
+2025-09-16 07:41:25,329 - INFO - SUCESSO! PA numÃ©rico extraÃ­do com padrÃ£o 3: PA112823
+2025-09-16 07:41:26,430 - INFO - PA EXTRAÃDO: PA112823
+2025-09-16 07:41:26,431 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:41:26,439 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:41:26,441 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:41:26,443 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:41:26,444 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:41:26,448 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:41:26,449 - INFO -   Data modificação: Tue Sep 16 07:40:41 2025
+2025-09-16 07:41:26,450 - INFO -   Tamanho: 58997 bytes
+2025-09-16 07:41:26,451 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:41:26,452 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:41:26,452 - INFO -   Data: Tue Sep 16 07:40:41 2025
+2025-09-16 07:41:26,452 - INFO - Abrindo planilha '972.xlsx' para salvar o PA...
+2025-09-16 07:41:26,854 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:41:26,856 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:26,856 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:26,857 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:26,857 - INFO - Escrevendo o cÃ³digo 'PA112823' na cÃ©lula B4...
+2025-09-16 07:41:26,881 - INFO - Salvando o ficheiro Excel...
+2025-09-16 07:41:27,028 - INFO - Fechando o ficheiro Excel...
+2025-09-16 07:41:27,045 - INFO - Encerrando a instÃ¢ncia do Excel...
+2025-09-16 07:41:27,191 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-16 07:41:28,191 - INFO - CÃ³digo PA salvo na aba configurada - linha 4.
+2025-09-16 07:41:28,192 - INFO - ✅ Linha 4 processada com sucesso!
+2025-09-16 07:41:28,193 - INFO - ⏸️ Pausa 
+2025-09-16 07:41:29,194 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:41:29,195 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:41:29,195 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:41:29,196 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:41:29,196 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:41:29,197 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:41:29,197 - INFO -   Data modificação: Tue Sep 16 07:41:26 2025
+2025-09-16 07:41:29,198 - INFO -   Tamanho: 59003 bytes
+2025-09-16 07:41:29,198 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:41:29,198 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:41:29,198 - INFO -   Data: Tue Sep 16 07:41:26 2025
+2025-09-16 07:41:29,198 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:41:29,904 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:41:29,908 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:29,908 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:29,909 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:29,925 - INFO - Próxima linha para processar (sem PA na coluna B): 5
+2025-09-16 07:41:30,088 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 5 (Sucesso: 2, Falhas: 0)
+================================================================================
+2025-09-16 07:41:30,088 - INFO - 🔄 LINHA SEGUINTE (5) - Executando sequência de reinício...
+2025-09-16 07:41:30,088 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-16 07:41:30,089 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-16 07:41:30,179 - INFO - ✅ Janela de informação não está na tela.
+2025-09-16 07:41:30,180 - INFO - Dimensões da tela: 1746x922
+2025-09-16 07:41:30,180 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-16 07:41:31,952 - INFO - Passo 2: Pressionando Home.
+2025-09-16 07:41:32,554 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-16 07:41:32,555 - INFO - 📋 PROCESSANDO LINHA 5...
+2025-09-16 07:41:32,556 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:41:32,558 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:41:32,559 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:41:32,559 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:41:32,559 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:41:32,561 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:41:32,562 - INFO -   Data modificação: Tue Sep 16 07:41:26 2025
+2025-09-16 07:41:32,562 - INFO -   Tamanho: 59003 bytes
+2025-09-16 07:41:32,563 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:41:32,563 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:41:32,563 - INFO -   Data: Tue Sep 16 07:41:26 2025
+2025-09-16 07:41:32,564 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:41:33,001 - INFO - Planilha aberta com sucesso!
+2025-09-16 07:41:33,002 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:41:33,005 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:33,005 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:33,006 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 5
+2025-09-16 07:41:33,006 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 07:41:33,040 - INFO - Dados lidos da aba configurada - linha 5:
+2025-09-16 07:41:33,040 - INFO -   Arquivo: 972.xlsx
+2025-09-16 07:41:33,040 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:33,040 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 07:41:33,040 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 07:41:33,040 - INFO -   Coluna B (PA existente): None
+2025-09-16 07:41:33,041 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 07:41:33,041 - INFO -     Coluna C: INP
+2025-09-16 07:41:33,041 - INFO -     Coluna D: 100.0
+2025-09-16 07:41:33,041 - INFO -     Coluna E: 2230.0
+2025-09-16 07:41:33,041 - INFO -     Coluna F: 558.0
+2025-09-16 07:41:33,041 - INFO -     Coluna G: INP
+2025-09-16 07:41:33,041 - INFO -     Coluna H: 15.0
+2025-09-16 07:41:33,042 - INFO -     Coluna I: N
+2025-09-16 07:41:33,042 - INFO -     Coluna J: 6290.0
+2025-09-16 07:41:33,042 - INFO -     Coluna K: 4.0
+2025-09-16 07:41:33,042 - INFO -     Coluna L: 100.0
+2025-09-16 07:41:33,042 - INFO -     Coluna M: 1050.0
+2025-09-16 07:41:33,042 - INFO -     Coluna N: 558.0
+2025-09-16 07:41:33,042 - INFO -     Coluna O: INP
+2025-09-16 07:41:33,042 - INFO -     Coluna P: 9.0
+2025-09-16 07:41:33,043 - INFO -     Coluna Q: N
+2025-09-16 07:41:33,043 - INFO -     Coluna R: 6290.0
+2025-09-16 07:41:33,043 - INFO -     Coluna S: 2.0
+2025-09-16 07:41:33,043 - INFO -     Coluna T: JG
+2025-09-16 07:41:33,043 - INFO -     Coluna U: 3103.0
+2025-09-16 07:41:33,204 - INFO - Processando linha 5
+2025-09-16 07:41:33,205 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-16 07:41:33,205 - INFO - Preenchendo colunas: C atÃ© U
+2025-09-16 07:41:33,205 - INFO - Total de colunas: 19
+2025-09-16 07:41:33,205 - INFO - Colunas para pular: ['H', 'I', 'K']
+2025-09-16 07:41:33,205 - INFO - Tempo entre caracteres: 0.05s
+2025-09-16 07:41:33,206 - INFO - Tempo para pular colunas: 0.1s
+2025-09-16 07:41:34,206 - INFO - Digitando campo C: 'INP'
+2025-09-16 07:41:34,208 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:41:36,120 - INFO - Digitando campo D: '100'
+2025-09-16 07:41:36,121 - INFO - Digitando (otimizado): '100' (intervalo: 0.05s)
+2025-09-16 07:41:38,027 - INFO - Digitando campo E: '2230'
+2025-09-16 07:41:38,028 - INFO - Digitando (otimizado): '2230' (intervalo: 0.05s)
+2025-09-16 07:41:39,934 - INFO - Digitando campo F: '558'
+2025-09-16 07:41:39,934 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:41:41,840 - INFO - Digitando campo G: 'INP'
+2025-09-16 07:41:41,841 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:41:43,745 - INFO - Pulando coluna H (configurada para pular)
+2025-09-16 07:41:43,947 - INFO - Pulando coluna I (configurada para pular)
+2025-09-16 07:41:44,150 - INFO - Digitando campo J: '6290'
+2025-09-16 07:41:44,152 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:41:46,059 - INFO - Pulando coluna K (configurada para pular)
+2025-09-16 07:41:46,261 - INFO - Digitando campo L: '100'
+2025-09-16 07:41:46,263 - INFO - Digitando (otimizado): '100' (intervalo: 0.05s)
+2025-09-16 07:41:48,170 - INFO - Digitando campo M: '1050'
+2025-09-16 07:41:48,171 - INFO - Digitando (otimizado): '1050' (intervalo: 0.05s)
+2025-09-16 07:41:50,081 - INFO - Digitando campo N: '558'
+2025-09-16 07:41:50,082 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:41:51,988 - INFO - Digitando campo O: 'INP'
+2025-09-16 07:41:51,988 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:41:53,894 - INFO - Digitando campo P: '9'
+2025-09-16 07:41:53,895 - INFO - Digitando (otimizado): '9' (intervalo: 0.05s)
+2025-09-16 07:41:55,799 - INFO - Digitando campo Q: 'N'
+2025-09-16 07:41:55,800 - INFO - Digitando (otimizado): 'N' (intervalo: 0.05s)
+2025-09-16 07:41:57,705 - INFO - Digitando campo R: '6290'
+2025-09-16 07:41:57,706 - INFO - Digitando (otimizado): '6290' (intervalo: 0.05s)
+2025-09-16 07:41:59,611 - INFO - Digitando campo S: '2'
+2025-09-16 07:41:59,612 - INFO - Digitando (otimizado): '2' (intervalo: 0.05s)
+2025-09-16 07:42:01,518 - INFO - Digitando campo T: 'JG'
+2025-09-16 07:42:01,519 - INFO - Digitando (otimizado): 'JG' (intervalo: 0.05s)
+2025-09-16 07:42:03,424 - INFO - Digitando campo U: '3103'
+2025-09-16 07:42:03,426 - INFO - Digitando (otimizado): '3103' (intervalo: 0.05s)
+2025-09-16 07:42:04,433 - INFO - Pressionando F2 para finalizar...
+2025-09-16 07:42:04,534 - INFO - Aguardando apÃ³s F2...
+2025-09-16 07:42:07,536 - INFO - InserÃ§Ã£o configurada concluÃ­da!
+2025-09-16 07:42:07,537 - INFO - === PROCESSANDO RESULTADO APÃ“S F2 ===
+2025-09-16 07:42:10,745 - INFO - ITEM JÃ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-16 07:42:10,745 - INFO - Extraindo PA da janela na posiÃ§Ã£o: Box(left=np.int64(675), top=np.int64(408), width=57, height=76)
+2025-09-16 07:42:10,745 - INFO - Capturando regiÃ£o da tela para OCR...
+2025-09-16 07:42:10,780 - INFO - Iniciando prÃ©-processamento da imagem para melhorar a leitura...
+2025-09-16 07:42:10,806 - INFO - Imagem prÃ©-processada para OCR salva como: DEBUG_imagem_para_ocr_1758019330.png
+2025-09-16 07:42:11,012 - INFO - TEXTO EXTRAÃDO DA IMAGEM PROCESSADA:
+Informação XxX
+Descrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -
+MDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 100 X
+15 E 2 PCS SUP. 1050 X 100 X 9 - REG. 55/8 MM - EMB. 3103
+UM. 10-16%" já cadastrada para o item “PA112824'
+
+2025-09-16 07:42:11,012 - INFO - Texto original do OCR: 'Informação XxX\nDescrição Completa “ALIZAR DE MDF ULTRA (RU) JG V701 -\nMDF PLUS BRANCO NEVE VRL62 90º C/ 4 PCS LAT. 2230 X 100 X\n15 E 2 PCS SUP. 1050 X 100 X 9 - REG. 55/8 MM - EMB. 3103\nUM. 10-16%" já cadastrada para o item “PA112824\'\n'
+2025-09-16 07:42:11,013 - INFO - Texto apÃ³s correÃ§Ãµes automÃ¡ticas: '1NF0RMAÇÃ0 XXX DE5CR1ÇÃ0 C0MPLE7A “AL1ZAR DE MDF UL7RA (RU) JG V701 - MDF PLU5 8RANC0 NEVE VRL62 90º C/ 4 PC5 LA7. 2230 X 100 X 15 E 2 PC5 5UP. 1050 X 100 X 9 - REG. 55/8 MM - EM8. 3103 UM. 10-16%" JÁ CADA57RADA PARA 0 17EM “PA112824\' '
+2025-09-16 07:42:11,013 - INFO - Testando padrÃ£o numÃ©rico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:42:11,013 - INFO - Testando padrÃ£o numÃ©rico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:42:11,014 - INFO - Testando padrÃ£o numÃ©rico 3: PA(\d{4,8})
+2025-09-16 07:42:11,014 - INFO - SUCESSO! PA numÃ©rico extraÃ­do com padrÃ£o 3: PA112824
+2025-09-16 07:42:12,115 - INFO - PA EXTRAÃDO: PA112824
+2025-09-16 07:42:12,118 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:42:12,123 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:42:12,125 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:42:12,127 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:42:12,128 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:42:12,132 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:42:12,132 - INFO -   Data modificação: Tue Sep 16 07:41:26 2025
+2025-09-16 07:42:12,133 - INFO -   Tamanho: 59003 bytes
+2025-09-16 07:42:12,134 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:42:12,135 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:42:12,136 - INFO -   Data: Tue Sep 16 07:41:26 2025
+2025-09-16 07:42:12,136 - INFO - Abrindo planilha '972.xlsx' para salvar o PA...
+2025-09-16 07:42:12,536 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:42:12,539 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:12,539 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:12,540 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:12,540 - INFO - Escrevendo o cÃ³digo 'PA112824' na cÃ©lula B5...
+2025-09-16 07:42:12,563 - INFO - Salvando o ficheiro Excel...
+2025-09-16 07:42:12,681 - INFO - Fechando o ficheiro Excel...
+2025-09-16 07:42:12,696 - INFO - Encerrando a instÃ¢ncia do Excel...
+2025-09-16 07:42:12,836 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-16 07:42:13,838 - INFO - CÃ³digo PA salvo na aba configurada - linha 5.
+2025-09-16 07:42:13,839 - INFO - ✅ Linha 5 processada com sucesso!
+2025-09-16 07:42:13,839 - INFO - ⏸️ Pausa 
+2025-09-16 07:42:14,839 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:42:14,842 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:42:14,844 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:42:14,844 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:42:14,844 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:42:14,846 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:42:14,846 - INFO -   Data modificação: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:14,846 - INFO -   Tamanho: 59015 bytes
+2025-09-16 07:42:14,847 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:42:14,847 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:42:14,848 - INFO -   Data: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:14,848 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:42:15,252 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:42:15,255 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:15,255 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:15,256 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:15,277 - INFO - Próxima linha para processar (sem PA na coluna B): 6
+2025-09-16 07:42:15,442 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 6 (Sucesso: 3, Falhas: 0)
+================================================================================
+2025-09-16 07:42:15,443 - INFO - 🔄 LINHA SEGUINTE (6) - Executando sequência de reinício...
+2025-09-16 07:42:15,443 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-16 07:42:15,443 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-16 07:42:15,554 - INFO - ✅ Janela de informação não está na tela.
+2025-09-16 07:42:15,555 - INFO - Dimensões da tela: 1746x922
+2025-09-16 07:42:15,555 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-16 07:42:17,327 - INFO - Passo 2: Pressionando Home.
+2025-09-16 07:42:17,930 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-16 07:42:17,930 - INFO - 📋 PROCESSANDO LINHA 6...
+2025-09-16 07:42:17,930 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:42:17,931 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:42:17,931 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:42:17,932 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:42:17,932 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:42:17,934 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:42:17,934 - INFO -   Data modificação: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:17,934 - INFO -   Tamanho: 59015 bytes
+2025-09-16 07:42:17,934 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:42:17,935 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:42:17,935 - INFO -   Data: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:17,935 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:42:18,324 - INFO - Planilha aberta com sucesso!
+2025-09-16 07:42:18,324 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:42:18,327 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:18,327 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:18,327 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 6
+2025-09-16 07:42:18,327 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 07:42:18,362 - INFO - Dados lidos da aba configurada - linha 6:
+2025-09-16 07:42:18,362 - INFO -   Arquivo: 972.xlsx
+2025-09-16 07:42:18,363 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:18,363 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 07:42:18,363 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:18,363 - INFO -   Coluna B (PA existente): None
+2025-09-16 07:42:18,363 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 07:42:18,363 - INFO -     Coluna C: INP
+2025-09-16 07:42:18,364 - INFO -     Coluna D: 50.0
+2025-09-16 07:42:18,364 - INFO -     Coluna E: 2230.0
+2025-09-16 07:42:18,364 - INFO -     Coluna F: 558.0
+2025-09-16 07:42:18,364 - INFO -     Coluna G: INP
+2025-09-16 07:42:18,364 - INFO -     Coluna H: 15.0
+2025-09-16 07:42:18,364 - INFO -     Coluna I: N
+2025-09-16 07:42:18,364 - INFO -     Coluna J: 6245.0
+2025-09-16 07:42:18,364 - INFO -     Coluna K: 4.0
+2025-09-16 07:42:18,365 - INFO -     Coluna L: 50.0
+2025-09-16 07:42:18,365 - INFO -     Coluna M: 1250.0
+2025-09-16 07:42:18,365 - INFO -     Coluna N: 558.0
+2025-09-16 07:42:18,365 - INFO -     Coluna O: INP
+2025-09-16 07:42:18,365 - INFO -     Coluna P: 15.0
+2025-09-16 07:42:18,365 - INFO -     Coluna Q: N
+2025-09-16 07:42:18,365 - INFO -     Coluna R: 6245.0
+2025-09-16 07:42:18,365 - INFO -     Coluna S: 2.0
+2025-09-16 07:42:18,365 - INFO -     Coluna T: JG
+2025-09-16 07:42:18,366 - INFO -     Coluna U: 3103.0
+2025-09-16 07:42:18,530 - INFO - Processando linha 6
+2025-09-16 07:42:18,530 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-16 07:42:18,530 - INFO - Preenchendo colunas: C atÃ© U
+2025-09-16 07:42:18,530 - INFO - Total de colunas: 19
+2025-09-16 07:42:18,530 - INFO - Colunas para pular: ['H', 'I', 'K']
+2025-09-16 07:42:18,530 - INFO - Tempo entre caracteres: 0.05s
+2025-09-16 07:42:18,531 - INFO - Tempo para pular colunas: 0.1s
+2025-09-16 07:42:19,532 - INFO - Digitando campo C: 'INP'
+2025-09-16 07:42:19,532 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:42:21,438 - INFO - Digitando campo D: '50'
+2025-09-16 07:42:21,439 - INFO - Digitando (otimizado): '50' (intervalo: 0.05s)
+2025-09-16 07:42:23,346 - INFO - Digitando campo E: '2230'
+2025-09-16 07:42:23,347 - INFO - Digitando (otimizado): '2230' (intervalo: 0.05s)
+2025-09-16 07:42:25,256 - INFO - Digitando campo F: '558'
+2025-09-16 07:42:25,256 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:42:27,162 - INFO - Digitando campo G: 'INP'
+2025-09-16 07:42:27,163 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:42:29,070 - INFO - Pulando coluna H (configurada para pular)
+2025-09-16 07:42:29,271 - INFO - Pulando coluna I (configurada para pular)
+2025-09-16 07:42:29,474 - INFO - Digitando campo J: '6245'
+2025-09-16 07:42:29,475 - INFO - Digitando (otimizado): '6245' (intervalo: 0.05s)
+2025-09-16 07:42:31,380 - INFO - Pulando coluna K (configurada para pular)
+2025-09-16 07:42:31,583 - INFO - Digitando campo L: '50'
+2025-09-16 07:42:31,584 - INFO - Digitando (otimizado): '50' (intervalo: 0.05s)
+2025-09-16 07:42:33,490 - INFO - Digitando campo M: '1250'
+2025-09-16 07:42:33,491 - INFO - Digitando (otimizado): '1250' (intervalo: 0.05s)
+2025-09-16 07:42:35,396 - INFO - Digitando campo N: '558'
+2025-09-16 07:42:35,397 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:42:37,304 - INFO - Digitando campo O: 'INP'
+2025-09-16 07:42:37,305 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:42:39,213 - INFO - Digitando campo P: '15'
+2025-09-16 07:42:39,215 - INFO - Digitando (otimizado): '15' (intervalo: 0.05s)
+2025-09-16 07:42:41,120 - INFO - Digitando campo Q: 'N'
+2025-09-16 07:42:41,122 - INFO - Digitando (otimizado): 'N' (intervalo: 0.05s)
+2025-09-16 07:42:43,028 - INFO - Digitando campo R: '6245'
+2025-09-16 07:42:43,029 - INFO - Digitando (otimizado): '6245' (intervalo: 0.05s)
+2025-09-16 07:42:44,939 - INFO - Digitando campo S: '2'
+2025-09-16 07:42:44,940 - INFO - Digitando (otimizado): '2' (intervalo: 0.05s)
+2025-09-16 07:42:46,845 - INFO - Digitando campo T: 'JG'
+2025-09-16 07:42:46,845 - INFO - Digitando (otimizado): 'JG' (intervalo: 0.05s)
+2025-09-16 07:42:48,751 - INFO - Digitando campo U: '3103'
+2025-09-16 07:42:48,752 - INFO - Digitando (otimizado): '3103' (intervalo: 0.05s)
+2025-09-16 07:42:49,757 - INFO - Pressionando F2 para finalizar...
+2025-09-16 07:42:49,859 - INFO - Aguardando apÃ³s F2...
+2025-09-16 07:42:52,860 - INFO - InserÃ§Ã£o configurada concluÃ­da!
+2025-09-16 07:42:52,861 - INFO - === PROCESSANDO RESULTADO APÃ“S F2 ===
+2025-09-16 07:42:56,055 - INFO - ITEM JÃ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-16 07:42:56,056 - INFO - Extraindo PA da janela na posiÃ§Ã£o: Box(left=np.int64(699), top=np.int64(418), width=57, height=76)
+2025-09-16 07:42:56,056 - INFO - Capturando regiÃ£o da tela para OCR...
+2025-09-16 07:42:56,094 - INFO - Iniciando prÃ©-processamento da imagem para melhorar a leitura...
+2025-09-16 07:42:56,113 - INFO - Imagem prÃ©-processada para OCR salva como: DEBUG_imagem_para_ocr_1758019376.png
+2025-09-16 07:42:56,272 - INFO - TEXTO EXTRAÃDO DA IMAGEM PROCESSADA:
+Informação x
+EMBALAGEM ALIZAR JG "2230" não encontrado(a) ou
+inativo(a).
+
+2025-09-16 07:42:56,272 - INFO - Texto original do OCR: 'Informação x\nEMBALAGEM ALIZAR JG "2230" não encontrado(a) ou\ninativo(a).\n'
+2025-09-16 07:42:56,273 - INFO - Texto apÃ³s correÃ§Ãµes automÃ¡ticas: '1NF0RMAÇÃ0 X EM8ALAGEM AL1ZAR JG "2230" NÃ0 ENC0N7RAD0(A) 0U 1NA71V0(A). '
+2025-09-16 07:42:56,273 - INFO - Testando padrÃ£o numÃ©rico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:42:56,273 - INFO - Testando padrÃ£o numÃ©rico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-16 07:42:56,273 - INFO - Testando padrÃ£o numÃ©rico 3: PA(\d{4,8})
+2025-09-16 07:42:56,274 - INFO - Testando padrÃ£o numÃ©rico 4: BA(\d{4,8})
+2025-09-16 07:42:56,274 - WARNING - NENHUM cÃ³digo PA numÃ©rico encontrado no texto, mesmo apÃ³s correÃ§Ãµes.
+2025-09-16 07:42:56,274 - WARNING - Texto original analisado: Informação x EMBALAGEM ALIZAR JG "2230" não encontrado(a) ou inativo(a). ...
+2025-09-16 07:42:57,376 - WARNING - PA NÃƒO foi extraÃ­do da regiÃ£o marcada
+2025-09-16 07:42:57,377 - WARNING - CÃ³digo PA nÃ£o foi obtido. Salvando status de erro na planilha.
+2025-09-16 07:42:57,378 - WARNING - CÃ³digo PA invÃ¡lido, nÃ£o salvando na planilha
+2025-09-16 07:42:57,378 - INFO - ⏸️ Pausa 
+2025-09-16 07:42:58,379 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:42:58,383 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:42:58,384 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:42:58,385 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:42:58,386 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:42:58,389 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:42:58,390 - INFO -   Data modificação: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:58,390 - INFO -   Tamanho: 59015 bytes
+2025-09-16 07:42:58,391 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:42:58,392 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:42:58,393 - INFO -   Data: Tue Sep 16 07:42:12 2025
+2025-09-16 07:42:58,393 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 07:42:58,828 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:42:58,831 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:58,831 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:58,832 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:42:58,851 - INFO - Próxima linha para processar (sem PA na coluna B): 6
+2025-09-16 07:42:59,021 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 6 (Sucesso: 3, Falhas: 1)
+================================================================================
+2025-09-16 07:42:59,021 - INFO - 🔄 LINHA SEGUINTE (6) - Executando sequência de reinício...
+2025-09-16 07:42:59,021 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-16 07:42:59,021 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-16 07:42:59,115 - INFO - ✅ Janela de informação não está na tela.
+2025-09-16 07:42:59,116 - INFO - Dimensões da tela: 1746x922
+2025-09-16 07:42:59,117 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-16 07:43:00,889 - INFO - Passo 2: Pressionando Home.
+2025-09-16 07:43:01,490 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-16 07:43:01,491 - INFO - 📋 PROCESSANDO LINHA 6...
+2025-09-16 07:43:01,492 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 07:43:01,495 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 07:43:01,497 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 07:43:01,499 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 07:43:01,500 - INFO - Total de arquivos encontrados: 1
+2025-09-16 07:43:01,504 - INFO - Arquivo: 972.xlsx
+2025-09-16 07:43:01,505 - INFO -   Data modificação: Tue Sep 16 07:42:12 2025
+2025-09-16 07:43:01,506 - INFO -   Tamanho: 59015 bytes
+2025-09-16 07:43:01,507 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 07:43:01,508 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:43:01,509 - INFO -   Data: Tue Sep 16 07:42:12 2025
+2025-09-16 07:43:01,510 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 07:43:01,946 - INFO - Planilha aberta com sucesso!
+2025-09-16 07:43:01,946 - INFO - Procurando aba com (972) no nome...
+2025-09-16 07:43:01,949 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:43:01,950 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:43:01,950 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 6
+2025-09-16 07:43:01,950 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 07:43:01,986 - INFO - Dados lidos da aba configurada - linha 6:
+2025-09-16 07:43:01,987 - INFO -   Arquivo: 972.xlsx
+2025-09-16 07:43:01,987 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 07:43:01,987 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 07:43:01,987 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 07:43:01,987 - INFO -   Coluna B (PA existente): None
+2025-09-16 07:43:01,987 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 07:43:01,987 - INFO -     Coluna C: INP
+2025-09-16 07:43:01,988 - INFO -     Coluna D: 50.0
+2025-09-16 07:43:01,988 - INFO -     Coluna E: 2230.0
+2025-09-16 07:43:01,988 - INFO -     Coluna F: 558.0
+2025-09-16 07:43:01,988 - INFO -     Coluna G: INP
+2025-09-16 07:43:01,988 - INFO -     Coluna H: 15.0
+2025-09-16 07:43:01,988 - INFO -     Coluna I: N
+2025-09-16 07:43:01,988 - INFO -     Coluna J: 6245.0
+2025-09-16 07:43:01,988 - INFO -     Coluna K: 4.0
+2025-09-16 07:43:01,989 - INFO -     Coluna L: 50.0
+2025-09-16 07:43:01,989 - INFO -     Coluna M: 1250.0
+2025-09-16 07:43:01,989 - INFO -     Coluna N: 558.0
+2025-09-16 07:43:01,989 - INFO -     Coluna O: INP
+2025-09-16 07:43:01,989 - INFO -     Coluna P: 15.0
+2025-09-16 07:43:01,989 - INFO -     Coluna Q: N
+2025-09-16 07:43:01,989 - INFO -     Coluna R: 6245.0
+2025-09-16 07:43:01,989 - INFO -     Coluna S: 2.0
+2025-09-16 07:43:01,990 - INFO -     Coluna T: JG
+2025-09-16 07:43:01,990 - INFO -     Coluna U: 3103.0
+2025-09-16 07:43:02,155 - INFO - Processando linha 6
+2025-09-16 07:43:02,156 - INFO - === INSERÃ‡ÃƒO SEQUENCIAL CONFIGURADA (DIGITAÃ‡ÃƒO PAUSADA + PULAR COLUNAS) ===
+2025-09-16 07:43:02,156 - INFO - Preenchendo colunas: C atÃ© U
+2025-09-16 07:43:02,156 - INFO - Total de colunas: 19
+2025-09-16 07:43:02,156 - INFO - Colunas para pular: ['H', 'I', 'K']
+2025-09-16 07:43:02,156 - INFO - Tempo entre caracteres: 0.05s
+2025-09-16 07:43:02,157 - INFO - Tempo para pular colunas: 0.1s
+2025-09-16 07:43:03,157 - INFO - Digitando campo C: 'INP'
+2025-09-16 07:43:03,158 - INFO - Digitando (otimizado): 'INP' (intervalo: 0.05s)
+2025-09-16 07:43:05,071 - INFO - Digitando campo D: '50'
+2025-09-16 07:43:05,071 - INFO - Digitando (otimizado): '50' (intervalo: 0.05s)
+2025-09-16 07:43:06,976 - INFO - Digitando campo E: '2230'
+2025-09-16 07:43:06,977 - INFO - Digitando (otimizado): '2230' (intervalo: 0.05s)
+2025-09-16 07:43:08,881 - INFO - Digitando campo F: '558'
+2025-09-16 07:43:08,882 - INFO - Digitando (otimizado): '558' (intervalo: 0.05s)
+2025-09-16 07:43:09,311 - INFO - 
+🛑 Execução interrompida pelo usuário.

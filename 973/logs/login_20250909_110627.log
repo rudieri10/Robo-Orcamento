@@ -1,0 +1,1303 @@
+2025-09-09 11:06:27,733 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-09 11:06:27,733 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:06:27,735 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:06:27,736 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:06:27,736 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:06:27,736 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:06:27,738 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:06:27,738 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:27,744 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:06:27,745 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:06:27,745 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:06:27,745 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:27,745 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:06:28,449 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:06:28,471 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,471 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,472 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,481 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-09 11:06:28,610 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 4 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-09 11:06:28,611 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-09 11:06:28,611 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÇÃO ===
+2025-09-09 11:06:28,611 - INFO - Iniciando processo completo...
+2025-09-09 11:06:28,611 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-09 11:06:28,611 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:06:28,612 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:06:28,612 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:06:28,612 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:06:28,612 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:06:28,614 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:06:28,614 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:28,614 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:06:28,614 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:06:28,614 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:06:28,614 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:28,614 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:06:28,967 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:06:28,988 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,988 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,989 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:28,996 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-09 11:06:29,148 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:06:29,149 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:06:29,149 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:06:29,149 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:06:29,149 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:06:29,150 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:06:29,151 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:29,151 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:06:29,151 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:06:29,151 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:06:29,151 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:06:29,151 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:06:29,856 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:06:29,856 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:06:29,878 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:29,879 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:06:29,879 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 4
+2025-09-09 11:06:29,879 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:06:29,909 - INFO - Dados lidos da aba configurada - linha 4:
+2025-09-09 11:06:29,909 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:06:29,909 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:06:29,909 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:06:29,909 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:06:29,909 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:06:29,910 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:06:29,910 - INFO -     Coluna C: 1.0
+2025-09-09 11:06:29,910 - INFO -     Coluna D: 90.0
+2025-09-09 11:06:29,910 - INFO -     Coluna E: 2135.0
+2025-09-09 11:06:29,910 - INFO -     Coluna F: INP
+2025-09-09 11:06:29,910 - INFO -     Coluna G: 35.0
+2025-09-09 11:06:29,910 - INFO -     Coluna H: N
+2025-09-09 11:06:29,910 - INFO -     Coluna I: RB40
+2025-09-09 11:06:29,911 - INFO -     Coluna J: 2.0
+2025-09-09 11:06:29,911 - INFO -     Coluna K: 90.0
+2025-09-09 11:06:29,911 - INFO -     Coluna L: 1008.0
+2025-09-09 11:06:29,911 - INFO -     Coluna M: INP
+2025-09-09 11:06:29,911 - INFO -     Coluna N: 35.0
+2025-09-09 11:06:29,911 - INFO -     Coluna O: N
+2025-09-09 11:06:29,911 - INFO -     Coluna P: RB40
+2025-09-09 11:06:29,911 - INFO -     Coluna Q: 1.0
+2025-09-09 11:06:29,912 - INFO -     Coluna R: JG
+2025-09-09 11:06:29,912 - INFO -     Coluna S: 2103.0
+2025-09-09 11:06:29,912 - INFO -     Coluna T: SUSIN
+2025-09-09 11:06:29,912 - INFO -     Coluna U: SUSIN
+2025-09-09 11:06:30,044 - INFO - Executando login...
+2025-09-09 11:06:30,045 - INFO - Iniciando execução e login no programa
+2025-09-09 11:06:30,046 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-09 11:06:30,970 - INFO - Programa iniciado com PID: 22432
+2025-09-09 11:06:30,971 - INFO - Aguardando abertura da janela do programa...
+2025-09-09 11:06:33,973 - INFO - Iniciando processo de login...
+2025-09-09 11:06:33,974 - INFO - Inserindo nome de usuário
+2025-09-09 11:06:36,185 - INFO - Inserindo senha
+2025-09-09 11:06:38,397 - INFO - Usando número de empresa: 200
+2025-09-09 11:06:41,607 - INFO - Login realizado com sucesso - Empresa: 200
+2025-09-09 11:06:44,608 - INFO - Acessando configurador...
+2025-09-09 11:06:44,609 - INFO - Iniciando acesso ao configurador...
+2025-09-09 11:06:46,611 - INFO - Passo 1: Procurando e clicando no menu systeam...
+2025-09-09 11:06:46,612 - INFO - Procurando imagem: img/menu systeam.PNG
+2025-09-09 11:06:46,722 - INFO - Imagem encontrada em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-09 11:06:46,848 - INFO - Clique realizado em: Point(x=np.int64(26), y=np.int64(42))
+2025-09-09 11:06:47,350 - INFO - Passo 2: Digitando 'configurador'...
+2025-09-09 11:06:47,351 - INFO - Digitando texto: configurador
+2025-09-09 11:06:47,966 - INFO - Passo 3: Procurando e clicando no módulo...
+2025-09-09 11:06:47,969 - INFO - Procurando imagem: img/modulo item por descricao.PNG
+2025-09-09 11:06:48,075 - INFO - Imagem encontrada em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-09 11:06:48,191 - INFO - Clique realizado em: Point(x=np.int64(660), y=np.int64(246))
+2025-09-09 11:06:48,192 - INFO - Configurador acessado com sucesso!
+2025-09-09 11:06:49,192 - INFO - Pesquisando tipo 973...
+2025-09-09 11:06:49,193 - INFO - Iniciando pesquisa do tipo: 973
+2025-09-09 11:06:51,195 - INFO - Passo 1: Procurando e clicando no botão pesquisar tipos...
+2025-09-09 11:06:51,197 - INFO - Procurando imagem: img/pesquisar tipos 615.PNG
+2025-09-09 11:06:51,282 - INFO - Imagem encontrada em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-09 11:06:51,409 - INFO - Clique realizado em: Point(x=np.int64(620), y=np.int64(78))
+2025-09-09 11:06:51,910 - INFO - Passo 2: Digitando '973'...
+2025-09-09 11:06:51,911 - INFO - Digitando texto: 973
+2025-09-09 11:06:52,617 - INFO - Pesquisa do tipo 973 realizada com sucesso!
+2025-09-09 11:06:52,617 - INFO - Processo completo executado com sucesso!
+2025-09-09 11:06:54,618 - INFO - Navegando com 7x Tab...
+2025-09-09 11:06:55,720 - INFO - Tab 1/7 pressionado
+2025-09-09 11:06:56,122 - INFO - Tab 2/7 pressionado
+2025-09-09 11:06:56,525 - INFO - Tab 3/7 pressionado
+2025-09-09 11:06:56,928 - INFO - Tab 4/7 pressionado
+2025-09-09 11:06:57,331 - INFO - Tab 5/7 pressionado
+2025-09-09 11:06:57,733 - INFO - Tab 6/7 pressionado
+2025-09-09 11:06:58,135 - INFO - Tab 7/7 pressionado
+2025-09-09 11:06:58,437 - INFO - Navegação com 7x Tab concluída!
+2025-09-09 11:06:59,439 - INFO - Processando linha 4
+2025-09-09 11:06:59,440 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:06:59,441 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:06:59,442 - INFO - Total de colunas: 19
+2025-09-09 11:07:00,444 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:07:00,547 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:07:06,150 - INFO - 📝 INSERINDO D: '90'
+2025-09-09 11:07:07,357 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:07:08,560 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:07:09,764 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:07:10,967 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:07:12,174 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:07:13,380 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:07:14,584 - INFO - 📝 INSERINDO K: '90'
+2025-09-09 11:07:15,789 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:07:16,993 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:07:18,204 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:07:19,411 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:07:20,617 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:07:21,826 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:07:23,030 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:07:24,240 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:07:25,448 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:07:26,655 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:07:27,259 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:07:27,362 - INFO - Aguardando após F2...
+2025-09-09 11:07:30,363 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:07:30,363 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:07:33,578 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:07:33,578 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(769), top=np.int64(418), width=57, height=76)
+2025-09-09 11:07:33,579 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:07:33,613 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:07:33,641 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757426853.png
+2025-09-09 11:07:33,772 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Informe toda(s) coluna(s).
+
+2025-09-09 11:07:33,772 - INFO - Texto original do OCR: 'Informação x\nInforme toda(s) coluna(s).\n'
+2025-09-09 11:07:33,773 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X 1NF0RME 70DA(5) C0LUNA(5). '
+2025-09-09 11:07:33,773 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:07:33,773 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:07:33,774 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:07:33,774 - INFO - Testando padrão numérico 4: BA(\d{4,8})
+2025-09-09 11:07:33,774 - WARNING - NENHUM código PA numérico encontrado no texto, mesmo após correções.
+2025-09-09 11:07:33,774 - WARNING - Texto original analisado: Informação x Informe toda(s) coluna(s). ...
+2025-09-09 11:07:34,876 - WARNING - ⚠️ PA NÃO foi extraído da região marcada
+2025-09-09 11:07:34,878 - WARNING - ✗ Código PA não foi obtido. Salvando status de erro na planilha.
+2025-09-09 11:07:34,880 - WARNING - Código PA inválido, não salvando na planilha
+2025-09-09 11:07:34,881 - ERROR - Falha ao inserir dados da planilha
+2025-09-09 11:07:34,882 - INFO - ⏸️ Pausa 
+2025-09-09 11:07:35,883 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:07:35,904 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:07:35,906 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:07:35,908 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:07:35,909 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:07:35,915 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:07:35,915 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:07:35,915 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:07:35,915 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:07:35,916 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:07:35,916 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:07:35,916 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:07:36,314 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:07:36,337 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:07:36,337 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:07:36,338 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:07:36,348 - INFO - Próxima linha para processar (sem PA na coluna B): 4
+2025-09-09 11:07:36,505 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 4 (Sucesso: 0, Falhas: 1)
+================================================================================
+2025-09-09 11:07:36,505 - INFO - 🔄 LINHA SEGUINTE (4) - Executando sequência de reinício...
+2025-09-09 11:07:36,506 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:07:36,506 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:07:36,607 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:07:36,608 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:07:36,609 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:07:38,379 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:07:38,981 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:07:38,982 - INFO - 📋 PROCESSANDO LINHA 4...
+2025-09-09 11:07:38,982 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:07:38,984 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:07:38,986 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:07:38,987 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:07:38,988 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:07:38,991 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:07:38,991 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:07:38,991 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:07:38,992 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:07:38,992 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:07:38,992 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:07:38,993 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:07:39,387 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:07:39,387 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:07:39,409 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:07:39,409 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:07:39,410 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 4
+2025-09-09 11:07:39,410 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:07:39,441 - INFO - Dados lidos da aba configurada - linha 4:
+2025-09-09 11:07:39,441 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:07:39,441 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:07:39,441 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:07:39,442 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:07:39,442 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:07:39,442 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:07:39,442 - INFO -     Coluna C: 1.0
+2025-09-09 11:07:39,442 - INFO -     Coluna D: 90.0
+2025-09-09 11:07:39,442 - INFO -     Coluna E: 2135.0
+2025-09-09 11:07:39,443 - INFO -     Coluna F: INP
+2025-09-09 11:07:39,443 - INFO -     Coluna G: 35.0
+2025-09-09 11:07:39,443 - INFO -     Coluna H: N
+2025-09-09 11:07:39,443 - INFO -     Coluna I: RB40
+2025-09-09 11:07:39,443 - INFO -     Coluna J: 2.0
+2025-09-09 11:07:39,443 - INFO -     Coluna K: 90.0
+2025-09-09 11:07:39,443 - INFO -     Coluna L: 1008.0
+2025-09-09 11:07:39,443 - INFO -     Coluna M: INP
+2025-09-09 11:07:39,443 - INFO -     Coluna N: 35.0
+2025-09-09 11:07:39,444 - INFO -     Coluna O: N
+2025-09-09 11:07:39,444 - INFO -     Coluna P: RB40
+2025-09-09 11:07:39,444 - INFO -     Coluna Q: 1.0
+2025-09-09 11:07:39,444 - INFO -     Coluna R: JG
+2025-09-09 11:07:39,444 - INFO -     Coluna S: 2103.0
+2025-09-09 11:07:39,444 - INFO -     Coluna T: SUSIN
+2025-09-09 11:07:39,444 - INFO -     Coluna U: SUSIN
+2025-09-09 11:07:39,567 - INFO - Processando linha 4
+2025-09-09 11:07:39,568 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:07:39,568 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:07:39,568 - INFO - Total de colunas: 19
+2025-09-09 11:07:40,569 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:07:40,672 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:07:46,275 - INFO - 📝 INSERINDO D: '90'
+2025-09-09 11:07:47,479 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:07:48,687 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:07:49,891 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:07:51,096 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:07:52,301 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:07:53,508 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:07:54,712 - INFO - 📝 INSERINDO K: '90'
+2025-09-09 11:07:55,916 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:07:57,124 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:07:58,332 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:07:59,538 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:08:00,745 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:08:01,955 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:08:03,160 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:08:04,365 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:08:05,570 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:08:06,780 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:08:07,386 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:08:07,487 - INFO - Aguardando após F2...
+2025-09-09 11:08:10,489 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:08:10,489 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:08:13,703 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:08:13,704 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:08:13,704 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:08:13,737 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:08:13,763 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757426893.png
+2025-09-09 11:08:13,950 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA139339"
+
+2025-09-09 11:08:13,950 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA139339"\n'
+2025-09-09 11:08:13,951 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X90X35 E 1 PC 5UP. 1008 X 90 X 35 MM EME8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA139339" '
+2025-09-09 11:08:13,951 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:08:13,951 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:08:13,952 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:08:13,952 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA139339
+2025-09-09 11:08:15,054 - INFO - ✅ PA EXTRAÍDO: PA139339
+2025-09-09 11:08:15,055 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:08:15,061 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:08:15,063 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:08:15,065 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:08:15,067 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:08:15,073 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:08:15,074 - INFO -   Data modificação: Tue Sep  9 10:47:03 2025
+2025-09-09 11:08:15,075 - INFO -   Tamanho: 39883 bytes
+2025-09-09 11:08:15,076 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:08:15,076 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:08:15,077 - INFO -   Data: Tue Sep  9 10:47:03 2025
+2025-09-09 11:08:15,078 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:08:15,799 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:08:15,825 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:15,825 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:08:15,825 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:15,825 - INFO - Escrevendo o código 'PA139339' na célula B4...
+2025-09-09 11:08:15,828 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:08:16,179 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:08:16,194 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:08:16,294 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:08:17,295 - INFO - ✅ Código PA salvo na aba configurada - linha 4.
+2025-09-09 11:08:17,299 - INFO - ✅ Linha 4 processada com sucesso!
+2025-09-09 11:08:17,300 - INFO - ⏸️ Pausa 
+2025-09-09 11:08:18,301 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:08:18,304 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:08:18,307 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:08:18,309 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:08:18,310 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:08:18,315 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:08:18,316 - INFO -   Data modificação: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:18,317 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:08:18,318 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:08:18,319 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:08:18,320 - INFO -   Data: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:18,321 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:08:19,006 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:08:19,030 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:19,030 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:08:19,031 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:19,042 - INFO - Próxima linha para processar (sem PA na coluna B): 5
+2025-09-09 11:08:19,163 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 5 (Sucesso: 1, Falhas: 1)
+================================================================================
+2025-09-09 11:08:19,163 - INFO - 🔄 LINHA SEGUINTE (5) - Executando sequência de reinício...
+2025-09-09 11:08:19,164 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:08:19,164 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:08:19,262 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:08:19,263 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:08:19,264 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:08:21,036 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:08:21,639 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:08:21,640 - INFO - 📋 PROCESSANDO LINHA 5...
+2025-09-09 11:08:21,641 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:08:21,643 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:08:21,644 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:08:21,645 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:08:21,645 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:08:21,648 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:08:21,648 - INFO -   Data modificação: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:21,649 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:08:21,649 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:08:21,650 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:08:21,650 - INFO -   Data: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:21,651 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:08:22,436 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:08:22,437 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:08:22,460 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:22,461 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:08:22,461 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 5
+2025-09-09 11:08:22,462 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:08:22,492 - INFO - Dados lidos da aba configurada - linha 5:
+2025-09-09 11:08:22,493 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:08:22,493 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:22,493 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:08:22,494 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:08:22,494 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:08:22,494 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:08:22,494 - INFO -     Coluna C: 1.0
+2025-09-09 11:08:22,494 - INFO -     Coluna D: 110.0
+2025-09-09 11:08:22,495 - INFO -     Coluna E: 2135.0
+2025-09-09 11:08:22,495 - INFO -     Coluna F: INP
+2025-09-09 11:08:22,495 - INFO -     Coluna G: 35.0
+2025-09-09 11:08:22,495 - INFO -     Coluna H: N
+2025-09-09 11:08:22,495 - INFO -     Coluna I: RB40
+2025-09-09 11:08:22,496 - INFO -     Coluna J: 2.0
+2025-09-09 11:08:22,496 - INFO -     Coluna K: 110.0
+2025-09-09 11:08:22,496 - INFO -     Coluna L: 1008.0
+2025-09-09 11:08:22,496 - INFO -     Coluna M: INP
+2025-09-09 11:08:22,496 - INFO -     Coluna N: 35.0
+2025-09-09 11:08:22,496 - INFO -     Coluna O: N
+2025-09-09 11:08:22,496 - INFO -     Coluna P: RB40
+2025-09-09 11:08:22,497 - INFO -     Coluna Q: 1.0
+2025-09-09 11:08:22,497 - INFO -     Coluna R: JG
+2025-09-09 11:08:22,497 - INFO -     Coluna S: 2103.0
+2025-09-09 11:08:22,497 - INFO -     Coluna T: SUSIN
+2025-09-09 11:08:22,497 - INFO -     Coluna U: SUSIN
+2025-09-09 11:08:22,621 - INFO - Processando linha 5
+2025-09-09 11:08:22,621 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:08:22,621 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:08:22,621 - INFO - Total de colunas: 19
+2025-09-09 11:08:23,622 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:08:23,725 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:08:29,328 - INFO - 📝 INSERINDO D: '110'
+2025-09-09 11:08:30,533 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:08:31,740 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:08:32,946 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:08:34,152 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:08:35,356 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:08:36,559 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:08:37,763 - INFO - 📝 INSERINDO K: '110'
+2025-09-09 11:08:38,970 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:08:40,180 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:08:41,391 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:08:42,595 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:08:43,801 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:08:45,008 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:08:46,212 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:08:47,417 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:08:48,622 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:08:49,826 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:08:50,435 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:08:50,537 - INFO - Aguardando após F2...
+2025-09-09 11:08:53,538 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:08:53,540 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:08:56,733 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:08:56,734 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:08:56,734 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:08:56,768 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:08:56,813 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757426936.png
+2025-09-09 11:08:56,992 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA139339"
+
+2025-09-09 11:08:56,993 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA139339"\n'
+2025-09-09 11:08:56,993 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X90X35 E 1 PC 5UP. 1008 X 90 X 35 MM EME8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA139339" '
+2025-09-09 11:08:56,994 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:08:56,994 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:08:56,994 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:08:56,995 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA139339
+2025-09-09 11:08:58,096 - INFO - ✅ PA EXTRAÍDO: PA139339
+2025-09-09 11:08:58,099 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:08:58,104 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:08:58,106 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:08:58,108 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:08:58,109 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:08:58,114 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:08:58,114 - INFO -   Data modificação: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:58,114 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:08:58,114 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:08:58,115 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:08:58,115 - INFO -   Data: Tue Sep  9 11:08:15 2025
+2025-09-09 11:08:58,115 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:08:58,515 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:08:58,538 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:58,538 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:08:58,538 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:08:58,539 - INFO - Escrevendo o código 'PA139339' na célula B5...
+2025-09-09 11:08:58,541 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:08:58,827 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:08:58,847 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:08:58,948 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:08:59,949 - INFO - ✅ Código PA salvo na aba configurada - linha 5.
+2025-09-09 11:08:59,951 - INFO - ✅ Linha 5 processada com sucesso!
+2025-09-09 11:08:59,951 - INFO - ⏸️ Pausa 
+2025-09-09 11:09:00,953 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:09:00,955 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:09:00,958 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:09:00,960 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:09:00,960 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:09:00,964 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:09:00,965 - INFO -   Data modificação: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:00,965 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:09:00,966 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:09:00,967 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:00,968 - INFO -   Data: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:00,968 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:09:01,341 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:09:01,366 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:01,366 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:09:01,366 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:01,382 - INFO - Próxima linha para processar (sem PA na coluna B): 6
+2025-09-09 11:09:01,523 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 6 (Sucesso: 2, Falhas: 1)
+================================================================================
+2025-09-09 11:09:01,523 - INFO - 🔄 LINHA SEGUINTE (6) - Executando sequência de reinício...
+2025-09-09 11:09:01,523 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:09:01,523 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:09:01,640 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:09:01,641 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:09:01,642 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:09:03,410 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:09:04,014 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:09:04,016 - INFO - 📋 PROCESSANDO LINHA 6...
+2025-09-09 11:09:04,017 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:09:04,019 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:09:04,022 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:09:04,023 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:09:04,024 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:09:04,027 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:09:04,028 - INFO -   Data modificação: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:04,028 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:09:04,029 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:09:04,029 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:04,029 - INFO -   Data: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:04,029 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:04,410 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:09:04,411 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:09:04,436 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:04,436 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:09:04,436 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 6
+2025-09-09 11:09:04,437 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:09:04,469 - INFO - Dados lidos da aba configurada - linha 6:
+2025-09-09 11:09:04,469 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:09:04,470 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:04,470 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:09:04,470 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:09:04,470 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:09:04,470 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:09:04,470 - INFO -     Coluna C: 1.0
+2025-09-09 11:09:04,471 - INFO -     Coluna D: 130.0
+2025-09-09 11:09:04,471 - INFO -     Coluna E: 2135.0
+2025-09-09 11:09:04,471 - INFO -     Coluna F: INP
+2025-09-09 11:09:04,471 - INFO -     Coluna G: 35.0
+2025-09-09 11:09:04,471 - INFO -     Coluna H: N
+2025-09-09 11:09:04,471 - INFO -     Coluna I: RB40
+2025-09-09 11:09:04,471 - INFO -     Coluna J: 2.0
+2025-09-09 11:09:04,472 - INFO -     Coluna K: 130.0
+2025-09-09 11:09:04,472 - INFO -     Coluna L: 1008.0
+2025-09-09 11:09:04,472 - INFO -     Coluna M: INP
+2025-09-09 11:09:04,472 - INFO -     Coluna N: 35.0
+2025-09-09 11:09:04,472 - INFO -     Coluna O: N
+2025-09-09 11:09:04,472 - INFO -     Coluna P: RB40
+2025-09-09 11:09:04,472 - INFO -     Coluna Q: 1.0
+2025-09-09 11:09:04,472 - INFO -     Coluna R: JG
+2025-09-09 11:09:04,473 - INFO -     Coluna S: 2103.0
+2025-09-09 11:09:04,473 - INFO -     Coluna T: SUSIN
+2025-09-09 11:09:04,473 - INFO -     Coluna U: SUSIN
+2025-09-09 11:09:04,595 - INFO - Processando linha 6
+2025-09-09 11:09:04,595 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:09:04,595 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:09:04,596 - INFO - Total de colunas: 19
+2025-09-09 11:09:05,596 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:09:05,699 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:09:11,302 - INFO - 📝 INSERINDO D: '130'
+2025-09-09 11:09:12,505 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:09:13,715 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:09:14,923 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:09:16,129 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:09:17,335 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:09:18,546 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:09:19,750 - INFO - 📝 INSERINDO K: '130'
+2025-09-09 11:09:20,955 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:09:22,158 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:09:23,368 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:09:24,571 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:09:25,776 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:09:26,984 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:09:28,187 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:09:29,391 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:09:30,598 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:09:31,803 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:09:32,415 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:09:32,516 - INFO - Aguardando após F2...
+2025-09-09 11:09:35,518 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:09:35,519 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:09:38,732 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:09:38,732 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:09:38,733 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:09:38,767 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:09:38,794 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757426978.png
+2025-09-09 11:09:38,988 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA139339"
+
+2025-09-09 11:09:38,989 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX90X35 E 1 PC SUP. 1008 X 90 X 35 MM EMEB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA139339"\n'
+2025-09-09 11:09:38,989 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X90X35 E 1 PC 5UP. 1008 X 90 X 35 MM EME8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA139339" '
+2025-09-09 11:09:38,989 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:09:38,990 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:09:38,990 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:09:38,990 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA139339
+2025-09-09 11:09:40,091 - INFO - ✅ PA EXTRAÍDO: PA139339
+2025-09-09 11:09:40,093 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:09:40,097 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:09:40,099 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:09:40,101 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:09:40,102 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:09:40,107 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:09:40,108 - INFO -   Data modificação: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:40,109 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:09:40,110 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:09:40,111 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:40,112 - INFO -   Data: Tue Sep  9 11:08:58 2025
+2025-09-09 11:09:40,113 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:09:40,815 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:09:40,838 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:40,838 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:09:40,839 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:40,840 - INFO - Escrevendo o código 'PA139339' na célula B6...
+2025-09-09 11:09:40,842 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:09:41,034 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:09:41,050 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:09:41,201 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:09:42,202 - INFO - ✅ Código PA salvo na aba configurada - linha 6.
+2025-09-09 11:09:42,206 - INFO - ✅ Linha 6 processada com sucesso!
+2025-09-09 11:09:42,207 - INFO - ⏸️ Pausa 
+2025-09-09 11:09:43,208 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:09:43,210 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:09:43,212 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:09:43,214 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:09:43,215 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:09:43,218 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:09:43,219 - INFO -   Data modificação: Tue Sep  9 11:09:40 2025
+2025-09-09 11:09:43,219 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:09:43,220 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:09:43,220 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:43,220 - INFO -   Data: Tue Sep  9 11:09:40 2025
+2025-09-09 11:09:43,221 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:09:43,612 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:09:43,637 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:43,637 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:09:43,638 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:43,657 - INFO - Próxima linha para processar (sem PA na coluna B): 7
+2025-09-09 11:09:43,830 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 7 (Sucesso: 3, Falhas: 1)
+================================================================================
+2025-09-09 11:09:43,830 - INFO - 🔄 LINHA SEGUINTE (7) - Executando sequência de reinício...
+2025-09-09 11:09:43,830 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:09:43,831 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:09:43,916 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:09:43,918 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:09:43,918 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:09:45,691 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:09:46,293 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:09:46,294 - INFO - 📋 PROCESSANDO LINHA 7...
+2025-09-09 11:09:46,294 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:09:46,295 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:09:46,295 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:09:46,296 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:09:46,296 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:09:46,298 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:09:46,298 - INFO -   Data modificação: Tue Sep  9 11:09:40 2025
+2025-09-09 11:09:46,299 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:09:46,299 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:09:46,299 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:46,299 - INFO -   Data: Tue Sep  9 11:09:40 2025
+2025-09-09 11:09:46,299 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:09:47,014 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:09:47,014 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:09:47,035 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:47,035 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:09:47,036 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 7
+2025-09-09 11:09:47,036 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:09:47,067 - INFO - Dados lidos da aba configurada - linha 7:
+2025-09-09 11:09:47,067 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:09:47,067 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:09:47,068 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:09:47,068 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:09:47,068 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:09:47,068 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:09:47,068 - INFO -     Coluna C: 1.0
+2025-09-09 11:09:47,069 - INFO -     Coluna D: 150.0
+2025-09-09 11:09:47,069 - INFO -     Coluna E: 2135.0
+2025-09-09 11:09:47,069 - INFO -     Coluna F: INP
+2025-09-09 11:09:47,069 - INFO -     Coluna G: 35.0
+2025-09-09 11:09:47,069 - INFO -     Coluna H: N
+2025-09-09 11:09:47,069 - INFO -     Coluna I: RB40
+2025-09-09 11:09:47,070 - INFO -     Coluna J: 2.0
+2025-09-09 11:09:47,070 - INFO -     Coluna K: 150.0
+2025-09-09 11:09:47,070 - INFO -     Coluna L: 1008.0
+2025-09-09 11:09:47,070 - INFO -     Coluna M: INP
+2025-09-09 11:09:47,070 - INFO -     Coluna N: 35.0
+2025-09-09 11:09:47,070 - INFO -     Coluna O: N
+2025-09-09 11:09:47,070 - INFO -     Coluna P: RB40
+2025-09-09 11:09:47,070 - INFO -     Coluna Q: 1.0
+2025-09-09 11:09:47,070 - INFO -     Coluna R: JG
+2025-09-09 11:09:47,071 - INFO -     Coluna S: 2103.0
+2025-09-09 11:09:47,071 - INFO -     Coluna T: SUSIN
+2025-09-09 11:09:47,071 - INFO -     Coluna U: SUSIN
+2025-09-09 11:09:47,243 - INFO - Processando linha 7
+2025-09-09 11:09:47,243 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:09:47,243 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:09:47,243 - INFO - Total de colunas: 19
+2025-09-09 11:09:48,244 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:09:48,347 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:09:53,950 - INFO - 📝 INSERINDO D: '150'
+2025-09-09 11:09:55,155 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:09:56,359 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:09:57,569 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:09:58,775 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:09:59,981 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:10:01,185 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:10:02,389 - INFO - 📝 INSERINDO K: '150'
+2025-09-09 11:10:03,593 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:10:04,803 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:10:06,011 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:10:07,218 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:10:08,424 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:10:09,629 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:10:10,834 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:10:12,041 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:10:13,247 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:10:14,455 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:10:15,070 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:10:15,173 - INFO - Aguardando após F2...
+2025-09-09 11:10:18,174 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:10:18,175 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:10:21,358 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:10:21,358 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:10:21,359 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:10:21,391 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:10:21,418 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757427021.png
+2025-09-09 11:10:21,611 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA126924"
+
+2025-09-09 11:10:21,612 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA126924"\n'
+2025-09-09 11:10:21,612 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X150X35 E 1 PC 5UP. 1008 X 150 X 35 MM EM8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA126924" '
+2025-09-09 11:10:21,613 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:10:21,613 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:10:21,613 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:10:21,614 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA126924
+2025-09-09 11:10:22,715 - INFO - ✅ PA EXTRAÍDO: PA126924
+2025-09-09 11:10:22,716 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:10:22,719 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:10:22,720 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:10:22,720 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:10:22,721 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:10:22,722 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:10:22,723 - INFO -   Data modificação: Tue Sep  9 11:09:40 2025
+2025-09-09 11:10:22,723 - INFO -   Tamanho: 39889 bytes
+2025-09-09 11:10:22,723 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:10:22,723 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:10:22,724 - INFO -   Data: Tue Sep  9 11:09:40 2025
+2025-09-09 11:10:22,724 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:10:23,415 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:10:23,439 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:23,439 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:10:23,439 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:23,440 - INFO - Escrevendo o código 'PA126924' na célula B7...
+2025-09-09 11:10:23,442 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:10:23,675 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:10:23,691 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:10:23,846 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:10:24,847 - INFO - ✅ Código PA salvo na aba configurada - linha 7.
+2025-09-09 11:10:24,850 - INFO - ✅ Linha 7 processada com sucesso!
+2025-09-09 11:10:24,851 - INFO - ⏸️ Pausa 
+2025-09-09 11:10:25,852 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:10:25,855 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:10:25,858 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:10:25,860 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:10:25,861 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:10:25,864 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:10:25,864 - INFO -   Data modificação: Tue Sep  9 11:10:23 2025
+2025-09-09 11:10:25,865 - INFO -   Tamanho: 39898 bytes
+2025-09-09 11:10:25,866 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:10:25,866 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:10:25,867 - INFO -   Data: Tue Sep  9 11:10:23 2025
+2025-09-09 11:10:25,867 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:10:26,583 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:10:26,607 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:26,607 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:10:26,608 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:26,631 - INFO - Próxima linha para processar (sem PA na coluna B): 8
+2025-09-09 11:10:26,863 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 8 (Sucesso: 4, Falhas: 1)
+================================================================================
+2025-09-09 11:10:26,863 - INFO - 🔄 LINHA SEGUINTE (8) - Executando sequência de reinício...
+2025-09-09 11:10:26,864 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:10:26,864 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:10:26,948 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:10:26,949 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:10:26,949 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:10:28,722 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:10:29,324 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:10:29,326 - INFO - 📋 PROCESSANDO LINHA 8...
+2025-09-09 11:10:29,327 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:10:29,329 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:10:29,331 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:10:29,333 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:10:29,334 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:10:29,338 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:10:29,339 - INFO -   Data modificação: Tue Sep  9 11:10:23 2025
+2025-09-09 11:10:29,340 - INFO -   Tamanho: 39898 bytes
+2025-09-09 11:10:29,341 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:10:29,342 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:10:29,343 - INFO -   Data: Tue Sep  9 11:10:23 2025
+2025-09-09 11:10:29,343 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:10:29,700 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:10:29,700 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:10:29,723 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:29,723 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:10:29,724 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 8
+2025-09-09 11:10:29,724 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:10:29,754 - INFO - Dados lidos da aba configurada - linha 8:
+2025-09-09 11:10:29,755 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:10:29,755 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:10:29,755 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:10:29,756 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:10:29,756 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:10:29,756 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:10:29,756 - INFO -     Coluna C: 1.0
+2025-09-09 11:10:29,756 - INFO -     Coluna D: 170.0
+2025-09-09 11:10:29,756 - INFO -     Coluna E: 2135.0
+2025-09-09 11:10:29,757 - INFO -     Coluna F: INP
+2025-09-09 11:10:29,757 - INFO -     Coluna G: 35.0
+2025-09-09 11:10:29,757 - INFO -     Coluna H: N
+2025-09-09 11:10:29,757 - INFO -     Coluna I: RB40
+2025-09-09 11:10:29,757 - INFO -     Coluna J: 2.0
+2025-09-09 11:10:29,758 - INFO -     Coluna K: 170.0
+2025-09-09 11:10:29,758 - INFO -     Coluna L: 1008.0
+2025-09-09 11:10:29,758 - INFO -     Coluna M: INP
+2025-09-09 11:10:29,758 - INFO -     Coluna N: 35.0
+2025-09-09 11:10:29,758 - INFO -     Coluna O: N
+2025-09-09 11:10:29,758 - INFO -     Coluna P: RB40
+2025-09-09 11:10:29,758 - INFO -     Coluna Q: 1.0
+2025-09-09 11:10:29,758 - INFO -     Coluna R: JG
+2025-09-09 11:10:29,758 - INFO -     Coluna S: 2103.0
+2025-09-09 11:10:29,759 - INFO -     Coluna T: SUSIN
+2025-09-09 11:10:29,759 - INFO -     Coluna U: SUSIN
+2025-09-09 11:10:29,972 - INFO - Processando linha 8
+2025-09-09 11:10:29,973 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:10:29,973 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:10:29,973 - INFO - Total de colunas: 19
+2025-09-09 11:10:30,974 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:10:31,076 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:10:36,679 - INFO - 📝 INSERINDO D: '170'
+2025-09-09 11:10:37,884 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:10:39,088 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:10:40,296 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:10:41,501 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:10:42,705 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:10:43,911 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:10:45,114 - INFO - 📝 INSERINDO K: '170'
+2025-09-09 11:10:46,321 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:10:47,529 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:10:48,734 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:10:49,939 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:10:51,145 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:10:52,353 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:10:53,557 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:10:54,768 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:10:55,973 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:10:57,186 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:10:57,791 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:10:57,892 - INFO - Aguardando após F2...
+2025-09-09 11:11:00,893 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:11:00,894 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:11:04,076 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:11:04,076 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:11:04,077 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:11:04,110 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:11:04,137 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757427064.png
+2025-09-09 11:11:04,328 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA126924"
+
+2025-09-09 11:11:04,328 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA126924"\n'
+2025-09-09 11:11:04,329 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X150X35 E 1 PC 5UP. 1008 X 150 X 35 MM EM8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA126924" '
+2025-09-09 11:11:04,329 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:11:04,330 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:11:04,330 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:11:04,330 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA126924
+2025-09-09 11:11:05,431 - INFO - ✅ PA EXTRAÍDO: PA126924
+2025-09-09 11:11:05,432 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:05,435 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:05,436 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:05,437 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:05,437 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:05,440 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:05,440 - INFO -   Data modificação: Tue Sep  9 11:10:23 2025
+2025-09-09 11:11:05,440 - INFO -   Tamanho: 39898 bytes
+2025-09-09 11:11:05,441 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:05,441 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:05,441 - INFO -   Data: Tue Sep  9 11:10:23 2025
+2025-09-09 11:11:05,442 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:11:05,849 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:05,872 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:05,873 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:05,873 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:05,873 - INFO - Escrevendo o código 'PA126924' na célula B8...
+2025-09-09 11:11:05,876 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:11:06,221 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:11:06,234 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:11:06,332 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:11:07,333 - INFO - ✅ Código PA salvo na aba configurada - linha 8.
+2025-09-09 11:11:07,334 - INFO - ✅ Linha 8 processada com sucesso!
+2025-09-09 11:11:07,334 - INFO - ⏸️ Pausa 
+2025-09-09 11:11:08,334 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:08,336 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:08,337 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:08,338 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:08,339 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:08,344 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:08,344 - INFO -   Data modificação: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:08,345 - INFO -   Tamanho: 39897 bytes
+2025-09-09 11:11:08,345 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:08,346 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:08,346 - INFO -   Data: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:08,346 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:11:08,710 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:08,732 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:08,732 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:08,733 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:08,757 - INFO - Próxima linha para processar (sem PA na coluna B): 9
+2025-09-09 11:11:08,893 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 9 (Sucesso: 5, Falhas: 1)
+================================================================================
+2025-09-09 11:11:08,894 - INFO - 🔄 LINHA SEGUINTE (9) - Executando sequência de reinício...
+2025-09-09 11:11:08,894 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:11:08,894 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:11:08,977 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:11:08,979 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:11:08,979 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:11:10,756 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:11:11,360 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:11:11,361 - INFO - 📋 PROCESSANDO LINHA 9...
+2025-09-09 11:11:11,362 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:11,365 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:11,367 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:11,369 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:11,370 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:11,373 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:11,374 - INFO -   Data modificação: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:11,375 - INFO -   Tamanho: 39897 bytes
+2025-09-09 11:11:11,376 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:11,376 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:11,377 - INFO -   Data: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:11,377 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:11,772 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:11:11,772 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:11,795 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:11,795 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:11,796 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 9
+2025-09-09 11:11:11,796 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:11:11,826 - INFO - Dados lidos da aba configurada - linha 9:
+2025-09-09 11:11:11,826 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:11:11,826 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:11,826 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:11:11,827 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:11:11,827 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:11:11,827 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:11:11,827 - INFO -     Coluna C: 1.0
+2025-09-09 11:11:11,828 - INFO -     Coluna D: 190.0
+2025-09-09 11:11:11,828 - INFO -     Coluna E: 2135.0
+2025-09-09 11:11:11,828 - INFO -     Coluna F: INP
+2025-09-09 11:11:11,828 - INFO -     Coluna G: 35.0
+2025-09-09 11:11:11,828 - INFO -     Coluna H: N
+2025-09-09 11:11:11,828 - INFO -     Coluna I: RB40
+2025-09-09 11:11:11,829 - INFO -     Coluna J: 2.0
+2025-09-09 11:11:11,829 - INFO -     Coluna K: 190.0
+2025-09-09 11:11:11,829 - INFO -     Coluna L: 1008.0
+2025-09-09 11:11:11,829 - INFO -     Coluna M: INP
+2025-09-09 11:11:11,829 - INFO -     Coluna N: 35.0
+2025-09-09 11:11:11,829 - INFO -     Coluna O: N
+2025-09-09 11:11:11,829 - INFO -     Coluna P: RB40
+2025-09-09 11:11:11,829 - INFO -     Coluna Q: 1.0
+2025-09-09 11:11:11,830 - INFO -     Coluna R: JG
+2025-09-09 11:11:11,830 - INFO -     Coluna S: 2103.0
+2025-09-09 11:11:11,830 - INFO -     Coluna T: SUSIN
+2025-09-09 11:11:11,830 - INFO -     Coluna U: SUSIN
+2025-09-09 11:11:11,952 - INFO - Processando linha 9
+2025-09-09 11:11:11,952 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:11:11,952 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:11:11,953 - INFO - Total de colunas: 19
+2025-09-09 11:11:12,953 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:11:13,054 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:11:18,657 - INFO - 📝 INSERINDO D: '190'
+2025-09-09 11:11:19,861 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:11:21,068 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:11:22,272 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:11:23,478 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:11:24,682 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:11:25,893 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:11:27,111 - INFO - 📝 INSERINDO K: '190'
+2025-09-09 11:11:28,319 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:11:29,524 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:11:30,729 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:11:31,934 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:11:33,140 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:11:34,346 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:11:35,550 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:11:36,757 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:11:37,964 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:11:39,169 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:11:39,782 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:11:39,885 - INFO - Aguardando após F2...
+2025-09-09 11:11:42,886 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:11:42,886 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:11:46,076 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:11:46,076 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:11:46,077 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:11:46,110 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:11:46,153 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757427106.png
+2025-09-09 11:11:46,333 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA126924"
+
+2025-09-09 11:11:46,333 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX150X35 E 1 PC SUP. 1008 X 150 X 35 MM EMB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA126924"\n'
+2025-09-09 11:11:46,334 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X150X35 E 1 PC 5UP. 1008 X 150 X 35 MM EM8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA126924" '
+2025-09-09 11:11:46,334 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:11:46,334 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:11:46,335 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:11:46,335 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA126924
+2025-09-09 11:11:47,436 - INFO - ✅ PA EXTRAÍDO: PA126924
+2025-09-09 11:11:47,439 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:47,441 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:47,441 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:47,442 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:47,442 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:47,444 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:47,445 - INFO -   Data modificação: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:47,445 - INFO -   Tamanho: 39897 bytes
+2025-09-09 11:11:47,445 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:47,445 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:47,445 - INFO -   Data: Tue Sep  9 11:11:05 2025
+2025-09-09 11:11:47,446 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:11:47,815 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:47,839 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:47,839 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:47,840 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:47,840 - INFO - Escrevendo o código 'PA126924' na célula B9...
+2025-09-09 11:11:47,842 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:11:48,114 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:11:48,138 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:11:48,241 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:11:49,242 - INFO - ✅ Código PA salvo na aba configurada - linha 9.
+2025-09-09 11:11:49,245 - INFO - ✅ Linha 9 processada com sucesso!
+2025-09-09 11:11:49,246 - INFO - ⏸️ Pausa 
+2025-09-09 11:11:50,248 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:50,250 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:50,252 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:50,253 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:50,254 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:50,257 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:50,258 - INFO -   Data modificação: Tue Sep  9 11:11:47 2025
+2025-09-09 11:11:50,258 - INFO -   Tamanho: 39899 bytes
+2025-09-09 11:11:50,259 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:50,260 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:50,260 - INFO -   Data: Tue Sep  9 11:11:47 2025
+2025-09-09 11:11:50,261 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:11:50,995 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:51,015 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:51,016 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:51,016 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:51,042 - INFO - Próxima linha para processar (sem PA na coluna B): 10
+2025-09-09 11:11:51,165 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 10 (Sucesso: 6, Falhas: 1)
+================================================================================
+2025-09-09 11:11:51,166 - INFO - 🔄 LINHA SEGUINTE (10) - Executando sequência de reinício...
+2025-09-09 11:11:51,166 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:11:51,166 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:11:51,258 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:11:51,260 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:11:51,260 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:11:53,033 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:11:53,635 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:11:53,636 - INFO - 📋 PROCESSANDO LINHA 10...
+2025-09-09 11:11:53,636 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:11:53,637 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:11:53,637 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:11:53,638 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:11:53,638 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:11:53,644 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:11:53,644 - INFO -   Data modificação: Tue Sep  9 11:11:47 2025
+2025-09-09 11:11:53,645 - INFO -   Tamanho: 39899 bytes
+2025-09-09 11:11:53,645 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:11:53,645 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:53,645 - INFO -   Data: Tue Sep  9 11:11:47 2025
+2025-09-09 11:11:53,646 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:11:54,004 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:11:54,004 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:11:54,029 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:54,029 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:11:54,029 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 10
+2025-09-09 11:11:54,030 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:11:54,059 - INFO - Dados lidos da aba configurada - linha 10:
+2025-09-09 11:11:54,060 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:11:54,060 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:11:54,060 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:11:54,060 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:11:54,060 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:11:54,061 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:11:54,061 - INFO -     Coluna C: 1.0
+2025-09-09 11:11:54,061 - INFO -     Coluna D: 210.0
+2025-09-09 11:11:54,061 - INFO -     Coluna E: 2135.0
+2025-09-09 11:11:54,061 - INFO -     Coluna F: INP
+2025-09-09 11:11:54,061 - INFO -     Coluna G: 35.0
+2025-09-09 11:11:54,061 - INFO -     Coluna H: N
+2025-09-09 11:11:54,061 - INFO -     Coluna I: RB40
+2025-09-09 11:11:54,061 - INFO -     Coluna J: 2.0
+2025-09-09 11:11:54,062 - INFO -     Coluna K: 210.0
+2025-09-09 11:11:54,062 - INFO -     Coluna L: 1008.0
+2025-09-09 11:11:54,062 - INFO -     Coluna M: INP
+2025-09-09 11:11:54,062 - INFO -     Coluna N: 35.0
+2025-09-09 11:11:54,062 - INFO -     Coluna O: N
+2025-09-09 11:11:54,062 - INFO -     Coluna P: RB40
+2025-09-09 11:11:54,062 - INFO -     Coluna Q: 1.0
+2025-09-09 11:11:54,062 - INFO -     Coluna R: JG
+2025-09-09 11:11:54,063 - INFO -     Coluna S: 2103.0
+2025-09-09 11:11:54,063 - INFO -     Coluna T: SUSIN
+2025-09-09 11:11:54,063 - INFO -     Coluna U: SUSIN
+2025-09-09 11:11:54,203 - INFO - Processando linha 10
+2025-09-09 11:11:54,203 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:11:54,203 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:11:54,203 - INFO - Total de colunas: 19
+2025-09-09 11:11:55,204 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:11:55,306 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:12:00,909 - INFO - 📝 INSERINDO D: '210'
+2025-09-09 11:12:02,116 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:12:03,321 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:12:04,526 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:12:05,729 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:12:06,935 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:12:08,139 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:12:09,344 - INFO - 📝 INSERINDO K: '210'
+2025-09-09 11:12:10,550 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:12:11,756 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:12:12,968 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:12:14,174 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:12:15,379 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:12:16,588 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:12:17,792 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:12:19,000 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:12:20,208 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:12:21,421 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:12:22,029 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:12:22,131 - INFO - Aguardando após F2...
+2025-09-09 11:12:25,132 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:12:25,134 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===
+2025-09-09 11:12:28,325 - INFO - ♻️ ITEM JÁ CADASTRADO - janela informacao.PNG encontrada diretamente!
+2025-09-09 11:12:28,326 - INFO - Extraindo PA da janela na posição: Box(left=np.int64(676), top=np.int64(401), width=57, height=76)
+2025-09-09 11:12:28,326 - INFO - Capturando região da tela para OCR...
+2025-09-09 11:12:28,360 - INFO - Iniciando pré-processamento da imagem para melhorar a leitura...
+2025-09-09 11:12:28,386 - INFO - 💾 Imagem pré-processada para OCR salva como: DEBUG_imagem_para_ocr_1757427148.png
+2025-09-09 11:12:28,579 - INFO - 📄 TEXTO EXTRAÍDO DA IMAGEM PROCESSADA:
+Informação x
+Descrição Completa “CAIXILHO MADEIRA REFLORESTADA JG
+8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135
+X210X35 E 1 PC SUP. 1008 X 210 X 35 MM EMEB. 2103 FECH.
+S/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item
+*PA139341º
+
+2025-09-09 11:12:28,579 - INFO - Texto original do OCR: 'Informação x\nDescrição Completa “CAIXILHO MADEIRA REFLORESTADA JG\n8701 - BRANCO NEVE PLUS RB40 - REB 40,5 €/ 2 PCS LAT. 2135\nX210X35 E 1 PC SUP. 1008 X 210 X 35 MM EMEB. 2103 FECH.\nS/USIN DOS. S/USIN UM. 10-16%" já cadastrada para o item\n*PA139341º\n'
+2025-09-09 11:12:28,580 - INFO - Texto após correções automáticas: '1NF0RMAÇÃ0 X DE5CR1ÇÃ0 C0MPLE7A “CA1X1LH0 MADE1RA REFL0RE57ADA JG 8701 - 8RANC0 NEVE PLU5 R840 - RE8 40,5 €/ 2 PC5 LA7. 2135 X210X35 E 1 PC 5UP. 1008 X 210 X 35 MM EME8. 2103 FECH. 5/U51N D05. 5/U51N UM. 10-16%" JÁ CADA57RADA PARA 0 17EM *PA139341º '
+2025-09-09 11:12:28,580 - INFO - Testando padrão numérico 1: ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:12:28,580 - INFO - Testando padrão numérico 2: CADASTRAD[AO]\s+PARA\s+O\s+ITEM\s*[\'"]?PA(\d{4,8})[\'"]?
+2025-09-09 11:12:28,581 - INFO - Testando padrão numérico 3: PA(\d{4,8})
+2025-09-09 11:12:28,581 - INFO - ✓ SUCESSO! PA numérico extraído com padrão 3: PA139341
+2025-09-09 11:12:29,682 - INFO - ✅ PA EXTRAÍDO: PA139341
+2025-09-09 11:12:29,684 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:12:29,691 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:12:29,693 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:12:29,695 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:12:29,696 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:12:29,701 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:12:29,702 - INFO -   Data modificação: Tue Sep  9 11:11:47 2025
+2025-09-09 11:12:29,703 - INFO -   Tamanho: 39899 bytes
+2025-09-09 11:12:29,703 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:12:29,704 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:12:29,704 - INFO -   Data: Tue Sep  9 11:11:47 2025
+2025-09-09 11:12:29,704 - INFO - Abrindo planilha '973.xlsx' para salvar o PA...
+2025-09-09 11:12:30,084 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:12:30,105 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:30,106 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:12:30,106 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:30,107 - INFO - Escrevendo o código 'PA139341' na célula B10...
+2025-09-09 11:12:30,109 - INFO - Salvando o ficheiro Excel...
+2025-09-09 11:12:30,423 - INFO - Fechando o ficheiro Excel...
+2025-09-09 11:12:30,444 - INFO - Encerrando a instância do Excel...
+2025-09-09 11:12:30,547 - INFO - Aguardando 1 segundo para garantir que o ficheiro foi atualizado na rede...
+2025-09-09 11:12:31,548 - INFO - ✅ Código PA salvo na aba configurada - linha 10.
+2025-09-09 11:12:31,549 - INFO - ✅ Linha 10 processada com sucesso!
+2025-09-09 11:12:31,549 - INFO - ⏸️ Pausa 
+2025-09-09 11:12:32,550 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:12:32,553 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:12:32,555 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:12:32,558 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:12:32,559 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:12:32,563 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:12:32,564 - INFO -   Data modificação: Tue Sep  9 11:12:30 2025
+2025-09-09 11:12:32,565 - INFO -   Tamanho: 39911 bytes
+2025-09-09 11:12:32,566 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:12:32,567 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:12:32,568 - INFO -   Data: Tue Sep  9 11:12:30 2025
+2025-09-09 11:12:32,568 - INFO - Procurando próxima linha sem PA na coluna B (aba (973))...
+2025-09-09 11:12:33,257 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:12:33,281 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:33,281 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:12:33,282 - INFO - Usando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:33,310 - INFO - Próxima linha para processar (sem PA na coluna B): 11
+2025-09-09 11:12:33,455 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 11 (Sucesso: 7, Falhas: 1)
+================================================================================
+2025-09-09 11:12:33,455 - INFO - 🔄 LINHA SEGUINTE (11) - Executando sequência de reinício...
+2025-09-09 11:12:33,456 - INFO - 🔄 === INICIANDO SEQUÊNCIA DE REINÍCIO (SIMPLIFICADA) ===
+2025-09-09 11:12:33,456 - INFO - 🔍 Verificando se a janela de informação precisa ser fechada...
+2025-09-09 11:12:33,540 - INFO - ✅ Janela de informação não está na tela.
+2025-09-09 11:12:33,541 - INFO - Dimensões da tela: 1746x922
+2025-09-09 11:12:33,541 - INFO - Passo 1: Movendo mouse para o centro (873, 461) e clicando.
+2025-09-09 11:12:35,314 - INFO - Passo 2: Pressionando Home.
+2025-09-09 11:12:35,918 - INFO - ✅ Sequência de reinício SIMPLIFICADA executada com sucesso!
+2025-09-09 11:12:35,918 - INFO - 📋 PROCESSANDO LINHA 11...
+2025-09-09 11:12:35,918 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-09 11:12:35,919 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-09 11:12:35,919 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-09 11:12:35,920 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-09 11:12:35,920 - INFO - Total de arquivos encontrados: 1
+2025-09-09 11:12:35,922 - INFO - Arquivo: 973.xlsx
+2025-09-09 11:12:35,922 - INFO -   Data modificação: Tue Sep  9 11:12:30 2025
+2025-09-09 11:12:35,922 - INFO -   Tamanho: 39911 bytes
+2025-09-09 11:12:35,922 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-09 11:12:35,922 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:12:35,923 - INFO -   Data: Tue Sep  9 11:12:30 2025
+2025-09-09 11:12:35,923 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-09 11:12:36,294 - INFO - Planilha aberta com sucesso!
+2025-09-09 11:12:36,294 - INFO - Procurando aba com (973) no nome...
+2025-09-09 11:12:36,317 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:36,317 - INFO - ✅ Aba configurada encontrada: 1 PA BATENTE JG (973)
+2025-09-09 11:12:36,317 - INFO - Usando aba: 1 PA BATENTE JG (973), linha: 11
+2025-09-09 11:12:36,318 - INFO - Número extraído do nome da aba '1 PA BATENTE JG (973)': 973
+2025-09-09 11:12:36,348 - INFO - Dados lidos da aba configurada - linha 11:
+2025-09-09 11:12:36,348 - INFO -   Arquivo: 973.xlsx
+2025-09-09 11:12:36,349 - INFO -   Nome da aba: 1 PA BATENTE JG (973)
+2025-09-09 11:12:36,349 - INFO -   Número extraído: 973 (✅ CORRETO)
+2025-09-09 11:12:36,349 - INFO -   Coluna A (controle): 1 PA BATENTE JG (973)
+2025-09-09 11:12:36,349 - INFO -   Coluna B (PA existente): None
+2025-09-09 11:12:36,349 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-09 11:12:36,350 - INFO -     Coluna C: 1.0
+2025-09-09 11:12:36,350 - INFO -     Coluna D: 230.0
+2025-09-09 11:12:36,350 - INFO -     Coluna E: 2135.0
+2025-09-09 11:12:36,350 - INFO -     Coluna F: INP
+2025-09-09 11:12:36,350 - INFO -     Coluna G: 35.0
+2025-09-09 11:12:36,350 - INFO -     Coluna H: N
+2025-09-09 11:12:36,350 - INFO -     Coluna I: RB40
+2025-09-09 11:12:36,351 - INFO -     Coluna J: 2.0
+2025-09-09 11:12:36,351 - INFO -     Coluna K: 230.0
+2025-09-09 11:12:36,351 - INFO -     Coluna L: 1008.0
+2025-09-09 11:12:36,351 - INFO -     Coluna M: INP
+2025-09-09 11:12:36,351 - INFO -     Coluna N: 35.0
+2025-09-09 11:12:36,351 - INFO -     Coluna O: N
+2025-09-09 11:12:36,351 - INFO -     Coluna P: RB40
+2025-09-09 11:12:36,351 - INFO -     Coluna Q: 1.0
+2025-09-09 11:12:36,352 - INFO -     Coluna R: JG
+2025-09-09 11:12:36,352 - INFO -     Coluna S: 2103.0
+2025-09-09 11:12:36,352 - INFO -     Coluna T: SUSIN
+2025-09-09 11:12:36,352 - INFO -     Coluna U: SUSIN
+2025-09-09 11:12:36,478 - INFO - Processando linha 11
+2025-09-09 11:12:36,478 - INFO - === INSERÇÃO SEQUENCIAL CONFIGURADA ===
+2025-09-09 11:12:36,478 - INFO - Preenchendo colunas: C até U
+2025-09-09 11:12:36,478 - INFO - Total de colunas: 19
+2025-09-09 11:12:37,479 - INFO - 📝 INSERINDO C: '1'
+2025-09-09 11:12:37,581 - INFO - ⏰ Aplicando intervalo especial para coluna C: 5.0s
+2025-09-09 11:12:43,184 - INFO - 📝 INSERINDO D: '230'
+2025-09-09 11:12:44,391 - INFO - 📝 INSERINDO E: '2135'
+2025-09-09 11:12:45,594 - INFO - 📝 INSERINDO F: 'INP'
+2025-09-09 11:12:46,803 - INFO - 📝 INSERINDO G: '35'
+2025-09-09 11:12:48,006 - INFO - 📝 INSERINDO H: 'N'
+2025-09-09 11:12:49,213 - INFO - 📝 INSERINDO I: 'RB40'
+2025-09-09 11:12:50,417 - INFO - 📝 INSERINDO J: '2'
+2025-09-09 11:12:51,620 - INFO - 📝 INSERINDO K: '230'
+2025-09-09 11:12:52,827 - INFO - 📝 INSERINDO L: '1008'
+2025-09-09 11:12:54,033 - INFO - 📝 INSERINDO M: 'INP'
+2025-09-09 11:12:55,239 - INFO - 📝 INSERINDO N: '35'
+2025-09-09 11:12:56,443 - INFO - 📝 INSERINDO O: 'N'
+2025-09-09 11:12:57,650 - INFO - 📝 INSERINDO P: 'RB40'
+2025-09-09 11:12:58,862 - INFO - 📝 INSERINDO Q: '1'
+2025-09-09 11:13:00,065 - INFO - 📝 INSERINDO R: 'JG'
+2025-09-09 11:13:01,274 - INFO - 📝 INSERINDO S: '2103'
+2025-09-09 11:13:02,480 - INFO - 📝 INSERINDO T: 'SUSIN'
+2025-09-09 11:13:03,691 - INFO - 📝 INSERINDO U: 'SUSIN'
+2025-09-09 11:13:04,296 - INFO - Pressionando F2 para finalizar...
+2025-09-09 11:13:04,398 - INFO - Aguardando após F2...
+2025-09-09 11:13:07,399 - INFO - ✅ Inserção configurada concluída!
+2025-09-09 11:13:07,399 - INFO - === PROCESSANDO RESULTADO APÓS F2 ===

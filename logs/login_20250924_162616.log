@@ -1,0 +1,90 @@
+2025-09-24 16:26:16,769 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-24 16:26:16,769 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-24 16:26:16,772 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-24 16:26:16,772 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-24 16:26:16,773 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-24 16:26:16,773 - INFO - Total de arquivos encontrados: 1
+2025-09-24 16:26:16,774 - INFO - Arquivo: 916.xlsx
+2025-09-24 16:26:16,774 - INFO -   Data modificação: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:16,781 - INFO -   Tamanho: 64235 bytes
+2025-09-24 16:26:16,781 - INFO - Arquivo mais recente selecionado: 916.xlsx
+2025-09-24 16:26:16,781 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\916.xlsx
+2025-09-24 16:26:16,781 - INFO -   Data: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:16,781 - INFO - Procurando próxima linha sem PA na coluna B (aba (916))...
+2025-09-24 16:26:17,167 - INFO - Procurando aba com (916) no nome...
+2025-09-24 16:26:17,190 - INFO - Verificando aba: 1 PA FOLHA (916)
+2025-09-24 16:26:17,190 - INFO - ✅ Aba configurada encontrada: 1 PA FOLHA (916)
+2025-09-24 16:26:17,191 - INFO - Usando aba: 1 PA FOLHA (916)
+2025-09-24 16:26:17,195 - INFO - Próxima linha para processar (sem PA na coluna B): 3
+2025-09-24 16:26:17,378 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 3 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-24 16:26:17,378 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-24 16:26:17,379 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÃ‡ÃƒO ===
+2025-09-24 16:26:17,379 - INFO - Iniciando processo completo...
+2025-09-24 16:26:17,379 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-24 16:26:17,379 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-24 16:26:17,379 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-24 16:26:17,380 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-24 16:26:17,380 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-24 16:26:17,380 - INFO - Total de arquivos encontrados: 1
+2025-09-24 16:26:17,381 - INFO - Arquivo: 916.xlsx
+2025-09-24 16:26:17,381 - INFO -   Data modificação: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:17,381 - INFO -   Tamanho: 64235 bytes
+2025-09-24 16:26:17,382 - INFO - Arquivo mais recente selecionado: 916.xlsx
+2025-09-24 16:26:17,382 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\916.xlsx
+2025-09-24 16:26:17,382 - INFO -   Data: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:17,382 - INFO - Procurando próxima linha sem PA na coluna B (aba (916))...
+2025-09-24 16:26:18,089 - INFO - Procurando aba com (916) no nome...
+2025-09-24 16:26:18,114 - INFO - Verificando aba: 1 PA FOLHA (916)
+2025-09-24 16:26:18,114 - INFO - ✅ Aba configurada encontrada: 1 PA FOLHA (916)
+2025-09-24 16:26:18,114 - INFO - Usando aba: 1 PA FOLHA (916)
+2025-09-24 16:26:18,120 - INFO - Próxima linha para processar (sem PA na coluna B): 3
+2025-09-24 16:26:18,291 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-24 16:26:18,291 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-24 16:26:18,292 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-24 16:26:18,292 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-24 16:26:18,292 - INFO - Total de arquivos encontrados: 1
+2025-09-24 16:26:18,293 - INFO - Arquivo: 916.xlsx
+2025-09-24 16:26:18,293 - INFO -   Data modificação: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:18,293 - INFO -   Tamanho: 64235 bytes
+2025-09-24 16:26:18,293 - INFO - Arquivo mais recente selecionado: 916.xlsx
+2025-09-24 16:26:18,293 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\916.xlsx
+2025-09-24 16:26:18,294 - INFO -   Data: Wed Sep 24 16:03:06 2025
+2025-09-24 16:26:18,294 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\916.xlsx
+2025-09-24 16:26:18,669 - INFO - Planilha aberta com sucesso!
+2025-09-24 16:26:18,669 - INFO - Procurando aba com (916) no nome...
+2025-09-24 16:26:18,694 - INFO - Verificando aba: 1 PA FOLHA (916)
+2025-09-24 16:26:18,694 - INFO - ✅ Aba configurada encontrada: 1 PA FOLHA (916)
+2025-09-24 16:26:18,694 - INFO - Usando aba: 1 PA FOLHA (916), linha: 3
+2025-09-24 16:26:18,694 - INFO - Número extraído do nome da aba '1 PA FOLHA (916)': 916
+2025-09-24 16:26:18,712 - INFO - Dados lidos da aba configurada - linha 3:
+2025-09-24 16:26:18,712 - INFO -   Arquivo: 916.xlsx
+2025-09-24 16:26:18,712 - INFO -   Nome da aba: 1 PA FOLHA (916)
+2025-09-24 16:26:18,712 - INFO -   Número extraído: 916 (✅ CORRETO)
+2025-09-24 16:26:18,712 - INFO -   Coluna A (controle): 1 PA FOLHA (916)
+2025-09-24 16:26:18,712 - INFO -   Coluna B (PA existente): None
+2025-09-24 16:26:18,713 - INFO -   📋 COLUNAS CONFIGURADAS (C até M):
+2025-09-24 16:26:18,713 - INFO -     Coluna C: 700.0
+2025-09-24 16:26:18,713 - INFO -     Coluna D: 2100.0
+2025-09-24 16:26:18,713 - INFO -     Coluna E: INB
+2025-09-24 16:26:18,713 - INFO -     Coluna F: INB
+2025-09-24 16:26:18,713 - INFO -     Coluna G: 35.0
+2025-09-24 16:26:18,713 - INFO -     Coluna H: ROM2  
+2025-09-24 16:26:18,713 - INFO -     Coluna I: N
+2025-09-24 16:26:18,713 - INFO -     Coluna J: GIR
+2025-09-24 16:26:18,713 - INFO -     Coluna K: 1107.0
+2025-09-24 16:26:18,713 - INFO -     Coluna L: USINP 
+2025-09-24 16:26:18,713 - INFO -     Coluna M: 0.0
+2025-09-24 16:26:18,893 - INFO - Executando login...
+2025-09-24 16:26:18,893 - INFO - Iniciando execução e login no programa
+2025-09-24 16:26:18,893 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-24 16:26:18,913 - INFO - Programa iniciado com PID: 8940
+2025-09-24 16:26:18,913 - INFO - Aguardando abertura da janela do programa...
+2025-09-24 16:26:21,914 - INFO - Iniciando processo de login...
+2025-09-24 16:26:21,915 - INFO - Inserindo nome de usuário
+2025-09-24 16:26:24,125 - INFO - Inserindo senha
+2025-09-24 16:26:26,338 - INFO - Usando número de empresa: 200
+2025-09-24 16:26:28,851 - INFO - 
+🛑 Execução interrompida pelo usuário.

@@ -1,0 +1,31 @@
+2025-08-08 14:29:42,038 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-08-08 14:29:42,038 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 14:29:42,040 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 14:29:42,041 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 14:29:42,041 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 14:29:42,041 - INFO - Total de arquivos encontrados: 1
+2025-08-08 14:29:42,043 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 14:29:42,043 - INFO -   Data modificação: Fri Aug  8 14:16:40 2025
+2025-08-08 14:29:42,049 - INFO -   Tamanho: 22180 bytes
+2025-08-08 14:29:42,050 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 14:29:42,050 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 14:29:42,050 - INFO -   Data: Fri Aug  8 14:16:40 2025
+2025-08-08 14:29:42,050 - INFO - Procurando próxima linha sem PA na coluna B (aba com 614)...
+2025-08-08 14:29:42,759 - INFO - Procurando aba com (614) no nome...
+2025-08-08 14:29:42,762 - INFO - Verificando aba: ESTOQUE - PA PORTA (615)
+2025-08-08 14:29:42,762 - INFO - Verificando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 14:29:42,763 - INFO - ✅ Aba com (614) encontrada: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 14:29:42,763 - INFO - Usando aba: ESTOQUE - PA BATENTE JG (614)
+2025-08-08 14:29:42,818 - INFO - Fim dos dados na linha 20
+2025-08-08 14:29:42,818 - INFO - Todas as linhas já foram processadas (todas têm PA na coluna B)!
+2025-08-08 14:29:43,057 - INFO - 🎉 === TODAS AS LINHAS FORAM PROCESSADAS! ===
+2025-08-08 14:29:43,057 - INFO - 
+================================================================================
+🏁 === CADASTRO COMPLETO FINALIZADO ===
+   ✅ Sucesso: 0
+   ❌ Falhas: 0
+================================================================================
+2025-08-08 14:29:43,057 - INFO - 🎉 === ROBÔ EXECUTADO COM SUCESSO TOTAL! ===
+2025-08-08 14:29:43,058 - INFO - Sistema finalizado. Pressione Ctrl+C para sair.
+2025-08-08 14:29:48,239 - INFO - 
+🛑 Execução interrompida pelo usuário.

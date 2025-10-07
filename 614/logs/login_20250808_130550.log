@@ -1,0 +1,26 @@
+2025-08-08 13:05:50,461 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-08-08 13:05:50,461 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-08-08 13:05:50,479 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-08-08 13:05:50,479 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-08-08 13:05:50,480 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-08-08 13:05:50,480 - INFO - Total de arquivos encontrados: 1
+2025-08-08 13:05:50,482 - INFO - Arquivo: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:05:50,482 - INFO -   Data modificação: Fri Aug  8 12:44:50 2025
+2025-08-08 13:05:50,488 - INFO -   Tamanho: 22020 bytes
+2025-08-08 13:05:50,488 - INFO - Arquivo mais recente selecionado: Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:05:50,489 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\Lista de Preços Varejos 2025.xlsx
+2025-08-08 13:05:50,489 - INFO -   Data: Fri Aug  8 12:44:50 2025
+2025-08-08 13:05:50,489 - INFO - Procurando próxima linha sem PA na coluna B...
+2025-08-08 13:05:50,985 - INFO - Fim dos dados na linha 33
+2025-08-08 13:05:50,985 - INFO - Todas as linhas já foram processadas (todas têm PA na coluna B)!
+2025-08-08 13:05:51,235 - INFO - 🎉 === TODAS AS LINHAS FORAM PROCESSADAS! ===
+2025-08-08 13:05:51,236 - INFO - 
+================================================================================
+🏁 === CADASTRO COMPLETO FINALIZADO ===
+   ✅ Sucesso: 0
+   ❌ Falhas: 0
+================================================================================
+2025-08-08 13:05:51,236 - INFO - 🎉 === ROBÔ EXECUTADO COM SUCESSO TOTAL! ===
+2025-08-08 13:05:51,236 - INFO - Sistema finalizado. Pressione Ctrl+C para sair.
+2025-08-08 13:06:01,048 - INFO - 
+🛑 Execução interrompida pelo usuário.

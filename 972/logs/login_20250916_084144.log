@@ -1,0 +1,92 @@
+2025-09-16 08:41:44,923 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-16 08:41:44,924 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 08:41:44,926 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 08:41:44,926 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 08:41:44,926 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 08:41:44,926 - INFO - Total de arquivos encontrados: 1
+2025-09-16 08:41:44,930 - INFO - Arquivo: 972.xlsx
+2025-09-16 08:41:44,930 - INFO -   Data modificação: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:44,936 - INFO -   Tamanho: 59299 bytes
+2025-09-16 08:41:44,936 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 08:41:44,936 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 08:41:44,937 - INFO -   Data: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:44,937 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 08:41:45,350 - INFO - Procurando aba com (972) no nome...
+2025-09-16 08:41:45,386 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:45,386 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:45,387 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:45,504 - INFO - Próxima linha para processar (sem PA na coluna B): 52
+2025-09-16 08:41:45,668 - INFO - 
+================================================================================
+📌 PROCESSANDO LINHA 52 (Sucesso: 0, Falhas: 0)
+================================================================================
+2025-09-16 08:41:45,668 - INFO - 🔑 PRIMEIRA LINHA - Executando processo completo com login...
+2025-09-16 08:41:45,669 - INFO - === INICIANDO PROCESSO COMPLETO COM INSERÃ‡ÃƒO ===
+2025-09-16 08:41:45,669 - INFO - Iniciando processo completo...
+2025-09-16 08:41:45,669 - INFO - Lendo dados da próxima linha sem PA na coluna B...
+2025-09-16 08:41:45,669 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 08:41:45,670 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 08:41:45,670 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 08:41:45,670 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 08:41:45,670 - INFO - Total de arquivos encontrados: 1
+2025-09-16 08:41:45,672 - INFO - Arquivo: 972.xlsx
+2025-09-16 08:41:45,672 - INFO -   Data modificação: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:45,672 - INFO -   Tamanho: 59299 bytes
+2025-09-16 08:41:45,672 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 08:41:45,672 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 08:41:45,672 - INFO -   Data: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:45,672 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-16 08:41:46,070 - INFO - Procurando aba com (972) no nome...
+2025-09-16 08:41:46,105 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,105 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,106 - INFO - Usando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,222 - INFO - Próxima linha para processar (sem PA na coluna B): 52
+2025-09-16 08:41:46,374 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-16 08:41:46,375 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-16 08:41:46,375 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-16 08:41:46,375 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-16 08:41:46,375 - INFO - Total de arquivos encontrados: 1
+2025-09-16 08:41:46,377 - INFO - Arquivo: 972.xlsx
+2025-09-16 08:41:46,377 - INFO -   Data modificação: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:46,377 - INFO -   Tamanho: 59299 bytes
+2025-09-16 08:41:46,377 - INFO - Arquivo mais recente selecionado: 972.xlsx
+2025-09-16 08:41:46,378 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 08:41:46,378 - INFO -   Data: Tue Sep 16 08:39:49 2025
+2025-09-16 08:41:46,378 - INFO - Abrindo planilha via COM: \\192.168.1.250\Programas\robo custos\lancar\972.xlsx
+2025-09-16 08:41:46,762 - INFO - Planilha aberta com sucesso!
+2025-09-16 08:41:46,762 - INFO - Procurando aba com (972) no nome...
+2025-09-16 08:41:46,797 - INFO - Verificando aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,798 - INFO - ✅ Aba configurada encontrada: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,798 - INFO - Usando aba: 1 PA ALIZAR JOGO (972), linha: 52
+2025-09-16 08:41:46,798 - INFO - Número extraído do nome da aba '1 PA ALIZAR JOGO (972)': 972
+2025-09-16 08:41:46,827 - INFO - Dados lidos da aba configurada - linha 52:
+2025-09-16 08:41:46,827 - INFO -   Arquivo: 972.xlsx
+2025-09-16 08:41:46,827 - INFO -   Nome da aba: 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,827 - INFO -   Número extraído: 972 (✅ CORRETO)
+2025-09-16 08:41:46,827 - INFO -   Coluna A (controle): 1 PA ALIZAR JOGO (972)
+2025-09-16 08:41:46,827 - INFO -   Coluna B (PA existente): None
+2025-09-16 08:41:46,827 - INFO -   📋 COLUNAS CONFIGURADAS (C até U):
+2025-09-16 08:41:46,827 - INFO -     Coluna C: FD15
+2025-09-16 08:41:46,827 - INFO -     Coluna D: 50.0
+2025-09-16 08:41:46,827 - INFO -     Coluna E: 2230.0
+2025-09-16 08:41:46,828 - INFO -     Coluna F: 558.0
+2025-09-16 08:41:46,828 - INFO -     Coluna G: FD15
+2025-09-16 08:41:46,828 - INFO -     Coluna H: 15.0
+2025-09-16 08:41:46,828 - INFO -     Coluna I: N
+2025-09-16 08:41:46,828 - INFO -     Coluna J: 6245.0
+2025-09-16 08:41:46,828 - INFO -     Coluna K: 4.0
+2025-09-16 08:41:46,828 - INFO -     Coluna L: 50.0
+2025-09-16 08:41:46,828 - INFO -     Coluna M: 1250.0
+2025-09-16 08:41:46,828 - INFO -     Coluna N: 558.0
+2025-09-16 08:41:46,828 - INFO -     Coluna O: FD15
+2025-09-16 08:41:46,828 - INFO -     Coluna P: 15.0
+2025-09-16 08:41:46,828 - INFO -     Coluna Q: N
+2025-09-16 08:41:46,829 - INFO -     Coluna R: 6245.0
+2025-09-16 08:41:46,829 - INFO -     Coluna S: 2.0
+2025-09-16 08:41:46,829 - INFO -     Coluna T: JG
+2025-09-16 08:41:46,829 - INFO -     Coluna U: 3103.0
+2025-09-16 08:41:46,987 - INFO - Executando login...
+2025-09-16 08:41:46,988 - INFO - Iniciando execução e login no programa
+2025-09-16 08:41:46,989 - INFO - Iniciando programa: \\192.168.1.250\Programas\SYSTEAM\PROGRAMA\Indust\Engenh.exe
+2025-09-16 08:41:47,945 - INFO - 
+🛑 Execução interrompida pelo usuário.

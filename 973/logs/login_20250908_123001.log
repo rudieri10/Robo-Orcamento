@@ -1,0 +1,28 @@
+2025-09-08 12:30:01,329 - INFO - 🚀 === INICIANDO CADASTRO COMPLETO A PARTIR DO MAIN ===
+2025-09-08 12:30:01,329 - INFO - Procurando planilha mais recente em: \\192.168.1.250\Programas\robo custos\lancar
+2025-09-08 12:30:01,338 - INFO - Padrão *.xlsx: 1 arquivos encontrados
+2025-09-08 12:30:01,338 - INFO - Padrão *.xls: 0 arquivos encontrados
+2025-09-08 12:30:01,339 - INFO - Padrão *.csv: 0 arquivos encontrados
+2025-09-08 12:30:01,339 - INFO - Total de arquivos encontrados: 1
+2025-09-08 12:30:01,341 - INFO - Arquivo: 973.xlsx
+2025-09-08 12:30:01,341 - INFO -   Data modificação: Mon Sep  8 10:30:25 2025
+2025-09-08 12:30:01,341 - INFO -   Tamanho: 40086 bytes
+2025-09-08 12:30:01,342 - INFO - Arquivo mais recente selecionado: 973.xlsx
+2025-09-08 12:30:01,342 - INFO -   Caminho: \\192.168.1.250\Programas\robo custos\lancar\973.xlsx
+2025-09-08 12:30:01,342 - INFO -   Data: Mon Sep  8 10:30:25 2025
+2025-09-08 12:30:01,342 - INFO - Procurando próxima linha sem PA na coluna B (aba (972))...
+2025-09-08 12:30:02,030 - INFO - Procurando aba com (972) no nome...
+2025-09-08 12:30:02,057 - INFO - Verificando aba: 1 PA BATENTE JG (973)
+2025-09-08 12:30:02,058 - ERROR - ❌ Nenhuma aba com (972) encontrada!
+2025-09-08 12:30:02,058 - ERROR - Não foi possível encontrar aba configurada (972)
+2025-09-08 12:30:02,487 - INFO - 🎉 === TODAS AS LINHAS FORAM PROCESSADAS! ===
+2025-09-08 12:30:02,488 - INFO - 
+================================================================================
+🏁 === CADASTRO COMPLETO FINALIZADO ===
+   ✅ Sucesso: 0
+   ❌ Falhas: 0
+================================================================================
+2025-09-08 12:30:02,488 - INFO - 🎉 === ROBÔ EXECUTADO COM SUCESSO TOTAL! ===
+2025-09-08 12:30:02,488 - INFO - Sistema finalizado. Pressione Ctrl+C para sair.
+2025-09-08 12:30:05,132 - INFO - 
+🛑 Execução interrompida pelo usuário.
